@@ -1,0 +1,10 @@
+Please prepare your answer for the following given topic and interview outline.
+'''
+Topic: 
+${topic_to_be_replaced}
+Outline:
+${outline_to_be_replaced}
+'''
+- Please draw on your personal background and experiences to provide unique and rich insights in your response.
+- You don't have to repreat the topic or outlint in your response, just provide your answers in a list format.
+- The total output word number should not exceed ${max_word_number}.

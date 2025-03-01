@@ -1,0 +1,23 @@
+Given the information of the invited guests and the interview outline, you should map each guest and also the host to a "voice type" according to the provided information. 
+The voice type is presented in the format:{id: [gender, age, speaking_speed, pitch, energy]. For example:
+{id_1: [female, Elderly, slow, high, low]}
+
+The host and guests must be mapped to a different voice type from the following voice type candidates:
+'''
+${voice_and_desc}
+'''
+
+Output should be in the format of json, like:
+'''
+{
+    "Host":"1",
+    "guest_1_name": "2",
+    "guest_2_name": "3",
+    ...
+}
+'''
+
+Here are the provided info
+${info_to_be_replaced}
+
+Output:

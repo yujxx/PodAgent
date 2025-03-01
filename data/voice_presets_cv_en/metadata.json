@@ -1,0 +1,2466 @@
+{
+  "0": {
+    "id": "0",
+    "desc": [
+      "female",
+      "elderly",
+      "slow",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7507_100463_000003_000002.wav"
+  },
+  "1": {
+    "id": "1",
+    "desc": [
+      "male",
+      "child",
+      "slow",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/4599_21274_000044_000001.wav"
+  },
+  "2": {
+    "id": "2",
+    "desc": [
+      "male",
+      "teenager",
+      "normal",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6009_57639_000015_000003.wav"
+  },
+  "3": {
+    "id": "3",
+    "desc": [
+      "female",
+      "elderly",
+      "normal",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/8199_118869_000033_000004.wav"
+  },
+  "4": {
+    "id": "4",
+    "desc": [
+      "female",
+      "elderly",
+      "fast",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/8199_118869_000033_000001.wav"
+  },
+  "5": {
+    "id": "5",
+    "desc": [
+      "female",
+      "child",
+      "fast",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6627_67850_000034_000001.wav"
+  },
+  "6": {
+    "id": "6",
+    "desc": [
+      "female",
+      "child",
+      "normal",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1124_132846_000008_000000.wav"
+  },
+  "7": {
+    "id": "7",
+    "desc": [
+      "female",
+      "elderly",
+      "normal",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/4064_19132_000027_000000.wav"
+  },
+  "8": {
+    "id": "8",
+    "desc": [
+      "female",
+      "elderly",
+      "fast",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6242_26941_000010_000000.wav"
+  },
+  "9": {
+    "id": "9",
+    "desc": [
+      "female",
+      "child",
+      "slow",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/8072_284670_000028_000000.wav"
+  },
+  "10": {
+    "id": "10",
+    "desc": [
+      "male",
+      "child",
+      "slow",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2588_160947_000006_000000.wav"
+  },
+  "11": {
+    "id": "11",
+    "desc": [
+      "male",
+      "elderly",
+      "fast",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/5280_204996_000056_000000.wav"
+  },
+  "12": {
+    "id": "12",
+    "desc": [
+      "male",
+      "elderly",
+      "fast",
+      "low",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7786_115688_000019_000005.wav"
+  },
+  "13": {
+    "id": "13",
+    "desc": [
+      "male",
+      "elderly",
+      "fast",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7061_88086_000023_000001.wav"
+  },
+  "14": {
+    "id": "14",
+    "desc": [
+      "female",
+      "child",
+      "normal",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/366_129285_000049_000000.wav"
+  },
+  "15": {
+    "id": "15",
+    "desc": [
+      "male",
+      "elderly",
+      "normal",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/5506_69896_000053_000000.wav"
+  },
+  "16": {
+    "id": "16",
+    "desc": [
+      "female",
+      "child",
+      "fast",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6583_48224_000014_000002.wav"
+  },
+  "17": {
+    "id": "17",
+    "desc": [
+      "female",
+      "child",
+      "fast",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1168_134958_000031_000001.wav"
+  },
+  "18": {
+    "id": "18",
+    "desc": [
+      "female",
+      "child",
+      "slow",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1545_161007_000067_000000.wav"
+  },
+  "19": {
+    "id": "19",
+    "desc": [
+      "female",
+      "child",
+      "slow",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1545_161007_000044_000000.wav"
+  },
+  "20": {
+    "id": "20",
+    "desc": [
+      "male",
+      "teenager",
+      "fast",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1780_143478_000098_000000.wav"
+  },
+  "21": {
+    "id": "21",
+    "desc": [
+      "female",
+      "child",
+      "fast",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/5860_64970_000033_000001.wav"
+  },
+  "22": {
+    "id": "22",
+    "desc": [
+      "female",
+      "elderly",
+      "normal",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6735_66412_000015_000000.wav"
+  },
+  "23": {
+    "id": "23",
+    "desc": [
+      "female",
+      "child",
+      "normal",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/8718_295197_000053_000000.wav"
+  },
+  "24": {
+    "id": "24",
+    "desc": [
+      "male",
+      "elderly",
+      "normal",
+      "low",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7764_106805_000018_000009.wav"
+  },
+  "25": {
+    "id": "25",
+    "desc": [
+      "female",
+      "child",
+      "slow",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/4273_188161_000025_000000.wav"
+  },
+  "26": {
+    "id": "26",
+    "desc": [
+      "male",
+      "teenager",
+      "slow",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/679_155529_000004_000000.wav"
+  },
+  "27": {
+    "id": "27",
+    "desc": [
+      "male",
+      "elderly",
+      "slow",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1868_2318_000009_000000.wav"
+  },
+  "28": {
+    "id": "28",
+    "desc": [
+      "male",
+      "elderly",
+      "normal",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2990_6534_000019_000002.wav"
+  },
+  "29": {
+    "id": "29",
+    "desc": [
+      "female",
+      "elderly",
+      "slow",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/5220_69519_000026_000001.wav"
+  },
+  "30": {
+    "id": "30",
+    "desc": [
+      "female",
+      "elderly",
+      "fast",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/5093_29101_000043_000001.wav"
+  },
+  "31": {
+    "id": "31",
+    "desc": [
+      "male",
+      "teenager",
+      "normal",
+      "low",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/3835_178029_000008_000000.wav"
+  },
+  "32": {
+    "id": "32",
+    "desc": [
+      "male",
+      "teenager",
+      "slow",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2893_139322_000025_000000.wav"
+  },
+  "33": {
+    "id": "33",
+    "desc": [
+      "male",
+      "teenager",
+      "normal",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6877_77361_000013_000001.wav"
+  },
+  "34": {
+    "id": "34",
+    "desc": [
+      "male",
+      "teenager",
+      "slow",
+      "low",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/8666_293943_000102_000000.wav"
+  },
+  "35": {
+    "id": "35",
+    "desc": [
+      "male",
+      "teenager",
+      "fast",
+      "low",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/4931_28257_000059_000000.wav"
+  },
+  "36": {
+    "id": "36",
+    "desc": [
+      "male",
+      "elderly",
+      "slow",
+      "low",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/4741_27757_000073_000003.wav"
+  },
+  "37": {
+    "id": "37",
+    "desc": [
+      "female",
+      "elderly",
+      "fast",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/5044_30592_000011_000000.wav"
+  },
+  "38": {
+    "id": "38",
+    "desc": [
+      "male",
+      "teenager",
+      "fast",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6184_57832_000006_000000.wav"
+  },
+  "39": {
+    "id": "39",
+    "desc": [
+      "female",
+      "elderly",
+      "fast",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7945_112011_000020_000000.wav"
+  },
+  "40": {
+    "id": "40",
+    "desc": [
+      "male",
+      "teenager",
+      "fast",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1225_129802_000037_000000.wav"
+  },
+  "41": {
+    "id": "41",
+    "desc": [
+      "male",
+      "teenager",
+      "normal",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/5641_32124_000022_000004.wav"
+  },
+  "42": {
+    "id": "42",
+    "desc": [
+      "male",
+      "elderly",
+      "fast",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/3088_5436_000121_000000.wav"
+  },
+  "43": {
+    "id": "43",
+    "desc": [
+      "male",
+      "teenager",
+      "slow",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1096_128265_000044_000000.wav"
+  },
+  "44": {
+    "id": "44",
+    "desc": [
+      "male",
+      "elderly",
+      "slow",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7338_92154_000020_000000.wav"
+  },
+  "45": {
+    "id": "45",
+    "desc": [
+      "male",
+      "teenager",
+      "fast",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/978_125137_000098_000001.wav"
+  },
+  "46": {
+    "id": "46",
+    "desc": [
+      "male",
+      "teenager",
+      "normal",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/5181_2488_000053_000002.wav"
+  },
+  "47": {
+    "id": "47",
+    "desc": [
+      "female",
+      "elderly",
+      "normal",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1970_28415_000033_000002.wav"
+  },
+  "48": {
+    "id": "48",
+    "desc": [
+      "male",
+      "elderly",
+      "fast",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/8334_119398_000038_000003.wav"
+  },
+  "49": {
+    "id": "49",
+    "desc": [
+      "female",
+      "elderly",
+      "normal",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1447_17506_000048_000001.wav"
+  },
+  "50": {
+    "id": "50",
+    "desc": [
+      "male",
+      "elderly",
+      "normal",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/8087_118165_000002_000000.wav"
+  },
+  "51": {
+    "id": "51",
+    "desc": [
+      "female",
+      "elderly",
+      "normal",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/5867_48852_000063_000002.wav"
+  },
+  "52": {
+    "id": "52",
+    "desc": [
+      "male",
+      "teenager",
+      "slow",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/8887_281471_000010_000000.wav"
+  },
+  "53": {
+    "id": "53",
+    "desc": [
+      "female",
+      "elderly",
+      "slow",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/4837_302000_000011_000002.wav"
+  },
+  "54": {
+    "id": "54",
+    "desc": [
+      "female",
+      "elderly",
+      "fast",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2010_121416_000018_000000.wav"
+  },
+  "55": {
+    "id": "55",
+    "desc": [
+      "female",
+      "elderly",
+      "slow",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/8123_275193_000016_000002.wav"
+  },
+  "56": {
+    "id": "56",
+    "desc": [
+      "male",
+      "elderly",
+      "fast",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/8494_244443_000020_000000.wav"
+  },
+  "57": {
+    "id": "57",
+    "desc": [
+      "female",
+      "elderly",
+      "slow",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2481_163597_000014_000004.wav"
+  },
+  "58": {
+    "id": "58",
+    "desc": [
+      "male",
+      "elderly",
+      "slow",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7357_94127_000004_000009.wav"
+  },
+  "59": {
+    "id": "59",
+    "desc": [
+      "female",
+      "teenager",
+      "slow",
+      "low",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1382_130549_000065_000000.wav"
+  },
+  "60": {
+    "id": "60",
+    "desc": [
+      "female",
+      "teenager",
+      "normal",
+      "low",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/3290_170207_000002_000002.wav"
+  },
+  "61": {
+    "id": "61",
+    "desc": [
+      "female",
+      "teenager",
+      "fast",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/614_161065_000037_000000.wav"
+  },
+  "62": {
+    "id": "62",
+    "desc": [
+      "male",
+      "elderly",
+      "fast",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6636_72296_000039_000002.wav"
+  },
+  "63": {
+    "id": "63",
+    "desc": [
+      "female",
+      "middle-aged",
+      "fast",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/4116_3582_000055_000000.wav"
+  },
+  "64": {
+    "id": "64",
+    "desc": [
+      "female",
+      "teenager",
+      "slow",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2834_132497_000060_000000.wav"
+  },
+  "65": {
+    "id": "65",
+    "desc": [
+      "female",
+      "teenager",
+      "fast",
+      "low",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/448_122800_000046_000000.wav"
+  },
+  "66": {
+    "id": "66",
+    "desc": [
+      "female",
+      "elderly",
+      "fast",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/774_127930_000047_000001.wav"
+  },
+  "67": {
+    "id": "67",
+    "desc": [
+      "female",
+      "teenager",
+      "normal",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1653_142352_000016_000001.wav"
+  },
+  "68": {
+    "id": "68",
+    "desc": [
+      "male",
+      "elderly",
+      "normal",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1046_133225_000024_000001.wav"
+  },
+  "69": {
+    "id": "69",
+    "desc": [
+      "female",
+      "teenager",
+      "normal",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/5101_67854_000044_000000.wav"
+  },
+  "70": {
+    "id": "70",
+    "desc": [
+      "male",
+      "teenager",
+      "slow",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6668_34648_000057_000001.wav"
+  },
+  "71": {
+    "id": "71",
+    "desc": [
+      "male",
+      "elderly",
+      "normal",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7926_254949_000011_000022.wav"
+  },
+  "72": {
+    "id": "72",
+    "desc": [
+      "female",
+      "teenager",
+      "slow",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2068_146217_000016_000001.wav"
+  },
+  "73": {
+    "id": "73",
+    "desc": [
+      "male",
+      "teenager",
+      "slow",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/4767_66411_000049_000000.wav"
+  },
+  "74": {
+    "id": "74",
+    "desc": [
+      "male",
+      "teenager",
+      "fast",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/5293_82020_000011_000000.wav"
+  },
+  "75": {
+    "id": "75",
+    "desc": [
+      "male",
+      "teenager",
+      "normal",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1258_135063_000011_000005.wav"
+  },
+  "76": {
+    "id": "76",
+    "desc": [
+      "male",
+      "teenager",
+      "normal",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/3650_168637_000015_000005.wav"
+  },
+  "77": {
+    "id": "77",
+    "desc": [
+      "male",
+      "elderly",
+      "slow",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7997_275179_000007_000001.wav"
+  },
+  "78": {
+    "id": "78",
+    "desc": [
+      "female",
+      "teenager",
+      "fast",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1061_146197_000023_000001.wav"
+  },
+  "79": {
+    "id": "79",
+    "desc": [
+      "male",
+      "teenager",
+      "fast",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/3082_165428_000029_000003.wav"
+  },
+  "80": {
+    "id": "80",
+    "desc": [
+      "male",
+      "middle-aged",
+      "fast",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/5519_39478_000018_000000.wav"
+  },
+  "81": {
+    "id": "81",
+    "desc": [
+      "male",
+      "elderly",
+      "fast",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6364_65388_000006_000002.wav"
+  },
+  "82": {
+    "id": "82",
+    "desc": [
+      "female",
+      "middle-aged",
+      "slow",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7932_278228_000010_000002.wav"
+  },
+  "83": {
+    "id": "83",
+    "desc": [
+      "female",
+      "middle-aged",
+      "fast",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/28_12332_000091_000003.wav"
+  },
+  "84": {
+    "id": "84",
+    "desc": [
+      "female",
+      "middle-aged",
+      "normal",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/4280_185518_000045_000001.wav"
+  },
+  "85": {
+    "id": "85",
+    "desc": [
+      "male",
+      "elderly",
+      "normal",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/8307_120458_000034_000001.wav"
+  },
+  "86": {
+    "id": "86",
+    "desc": [
+      "female",
+      "middle-aged",
+      "normal",
+      "low",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/89_219_000006_000002.wav"
+  },
+  "87": {
+    "id": "87",
+    "desc": [
+      "male",
+      "elderly",
+      "slow",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/8356_284520_000002_000002.wav"
+  },
+  "88": {
+    "id": "88",
+    "desc": [
+      "female",
+      "middle-aged",
+      "normal",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/166_126302_000008_000000.wav"
+  },
+  "89": {
+    "id": "89",
+    "desc": [
+      "male",
+      "young adult",
+      "fast",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1283_129808_000050_000000.wav"
+  },
+  "90": {
+    "id": "90",
+    "desc": [
+      "female",
+      "middle-aged",
+      "slow",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/696_93314_000036_000004.wav"
+  },
+  "91": {
+    "id": "91",
+    "desc": [
+      "male",
+      "young adult",
+      "slow",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/5911_52164_000106_000000.wav"
+  },
+  "92": {
+    "id": "92",
+    "desc": [
+      "female",
+      "elderly",
+      "normal",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2182_181183_000035_000000.wav"
+  },
+  "93": {
+    "id": "93",
+    "desc": [
+      "female",
+      "middle-aged",
+      "fast",
+      "low",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/4680_16042_000016_000001.wav"
+  },
+  "94": {
+    "id": "94",
+    "desc": [
+      "male",
+      "young adult",
+      "normal",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/826_131108_000036_000002.wav"
+  },
+  "95": {
+    "id": "95",
+    "desc": [
+      "male",
+      "middle-aged",
+      "fast",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2407_7666_000002_000000.wav"
+  },
+  "96": {
+    "id": "96",
+    "desc": [
+      "female",
+      "young adult",
+      "fast",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/5684_46243_000010_000005.wav"
+  },
+  "97": {
+    "id": "97",
+    "desc": [
+      "male",
+      "elderly",
+      "slow",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/4196_23901_000003_000000.wav"
+  },
+  "98": {
+    "id": "98",
+    "desc": [
+      "female",
+      "young adult",
+      "slow",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6189_64708_000003_000000.wav"
+  },
+  "99": {
+    "id": "99",
+    "desc": [
+      "male",
+      "elderly",
+      "fast",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6674_71396_000030_000001.wav"
+  },
+  "100": {
+    "id": "100",
+    "desc": [
+      "male",
+      "middle-aged",
+      "normal",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/439_122810_000038_000001.wav"
+  },
+  "101": {
+    "id": "101",
+    "desc": [
+      "male",
+      "teenager",
+      "fast",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/3373_174983_000007_000000.wav"
+  },
+  "102": {
+    "id": "102",
+    "desc": [
+      "female",
+      "young adult",
+      "normal",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/5570_73846_000004_000003.wav"
+  },
+  "103": {
+    "id": "103",
+    "desc": [
+      "female",
+      "middle-aged",
+      "slow",
+      "low",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2598_4662_000021_000000.wav"
+  },
+  "104": {
+    "id": "104",
+    "desc": [
+      "male",
+      "teenager",
+      "slow",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/8758_291168_000009_000003.wav"
+  },
+  "105": {
+    "id": "105",
+    "desc": [
+      "male",
+      "middle-aged",
+      "normal",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/4278_187018_000016_000001.wav"
+  },
+  "106": {
+    "id": "106",
+    "desc": [
+      "female",
+      "teenager",
+      "normal",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7178_34645_000009_000007.wav"
+  },
+  "107": {
+    "id": "107",
+    "desc": [
+      "female",
+      "teenager",
+      "slow",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2042_134780_000016_000000.wav"
+  },
+  "108": {
+    "id": "108",
+    "desc": [
+      "male",
+      "young adult",
+      "slow",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/4246_12544_000033_000003.wav"
+  },
+  "109": {
+    "id": "109",
+    "desc": [
+      "female",
+      "elderly",
+      "normal",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6215_62347_000008_000000.wav"
+  },
+  "110": {
+    "id": "110",
+    "desc": [
+      "male",
+      "middle-aged",
+      "slow",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1618_220956_000005_000003.wav"
+  },
+  "111": {
+    "id": "111",
+    "desc": [
+      "male",
+      "teenager",
+      "fast",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/3144_174048_000051_000000.wav"
+  },
+  "112": {
+    "id": "112",
+    "desc": [
+      "male",
+      "teenager",
+      "normal",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/252_29350_000005_000000.wav"
+  },
+  "113": {
+    "id": "113",
+    "desc": [
+      "female",
+      "middle-aged",
+      "fast",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/8193_116805_000012_000000.wav"
+  },
+  "114": {
+    "id": "114",
+    "desc": [
+      "male",
+      "young adult",
+      "normal",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7096_80685_000028_000001.wav"
+  },
+  "115": {
+    "id": "115",
+    "desc": [
+      "male",
+      "middle-aged",
+      "fast",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1943_138033_000031_000001.wav"
+  },
+  "116": {
+    "id": "116",
+    "desc": [
+      "male",
+      "teenager",
+      "slow",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2133_289460_000021_000000.wav"
+  },
+  "117": {
+    "id": "117",
+    "desc": [
+      "female",
+      "elderly",
+      "slow",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/3816_19585_000008_000000.wav"
+  },
+  "118": {
+    "id": "118",
+    "desc": [
+      "female",
+      "teenager",
+      "normal",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1183_128659_000048_000001.wav"
+  },
+  "119": {
+    "id": "119",
+    "desc": [
+      "male",
+      "middle-aged",
+      "normal",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2999_156967_000035_000000.wav"
+  },
+  "120": {
+    "id": "120",
+    "desc": [
+      "male",
+      "young adult",
+      "fast",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2606_130138_000036_000006.wav"
+  },
+  "121": {
+    "id": "121",
+    "desc": [
+      "male",
+      "middle-aged",
+      "slow",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6330_62851_000012_000002.wav"
+  },
+  "122": {
+    "id": "122",
+    "desc": [
+      "female",
+      "young adult",
+      "slow",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7839_109872_000012_000000.wav"
+  },
+  "123": {
+    "id": "123",
+    "desc": [
+      "male",
+      "young adult",
+      "normal",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6276_76103_000027_000004.wav"
+  },
+  "124": {
+    "id": "124",
+    "desc": [
+      "male",
+      "teenager",
+      "normal",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1708_142415_000035_000000.wav"
+  },
+  "125": {
+    "id": "125",
+    "desc": [
+      "male",
+      "elderly",
+      "normal",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2514_149482_000024_000007.wav"
+  },
+  "126": {
+    "id": "126",
+    "desc": [
+      "female",
+      "middle-aged",
+      "fast",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2853_164188_000028_000001.wav"
+  },
+  "127": {
+    "id": "127",
+    "desc": [
+      "female",
+      "young adult",
+      "normal",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2204_131732_000017_000021.wav"
+  },
+  "128": {
+    "id": "128",
+    "desc": [
+      "female",
+      "teenager",
+      "slow",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/9022_282357_000034_000010.wav"
+  },
+  "129": {
+    "id": "129",
+    "desc": [
+      "female",
+      "middle-aged",
+      "fast",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7316_10642_000010_000003.wav"
+  },
+  "130": {
+    "id": "130",
+    "desc": [
+      "female",
+      "teenager",
+      "fast",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6178_86034_000099_000000.wav"
+  },
+  "131": {
+    "id": "131",
+    "desc": [
+      "female",
+      "teenager",
+      "fast",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2582_155973_000025_000001.wav"
+  },
+  "132": {
+    "id": "132",
+    "desc": [
+      "female",
+      "middle-aged",
+      "normal",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7078_271888_000042_000000.wav"
+  },
+  "133": {
+    "id": "133",
+    "desc": [
+      "female",
+      "elderly",
+      "slow",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6286_69422_000006_000002.wav"
+  },
+  "134": {
+    "id": "134",
+    "desc": [
+      "female",
+      "middle-aged",
+      "normal",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/5724_13364_000004_000002.wav"
+  },
+  "135": {
+    "id": "135",
+    "desc": [
+      "male",
+      "elderly",
+      "slow",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7688_112187_000039_000001.wav"
+  },
+  "136": {
+    "id": "136",
+    "desc": [
+      "male",
+      "young adult",
+      "fast",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2518_154826_000013_000000.wav"
+  },
+  "137": {
+    "id": "137",
+    "desc": [
+      "female",
+      "middle-aged",
+      "fast",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/5115_26947_000019_000000.wav"
+  },
+  "138": {
+    "id": "138",
+    "desc": [
+      "female",
+      "young adult",
+      "fast",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1933_146437_000001_000001.wav"
+  },
+  "139": {
+    "id": "139",
+    "desc": [
+      "female",
+      "middle-aged",
+      "fast",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1760_143006_000012_000005.wav"
+  },
+  "140": {
+    "id": "140",
+    "desc": [
+      "male",
+      "young adult",
+      "slow",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1379_130530_000034_000000.wav"
+  },
+  "141": {
+    "id": "141",
+    "desc": [
+      "female",
+      "teenager",
+      "slow",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7285_72207_000005_000001.wav"
+  },
+  "142": {
+    "id": "142",
+    "desc": [
+      "female",
+      "teenager",
+      "slow",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2269_147627_000010_000001.wav"
+  },
+  "143": {
+    "id": "143",
+    "desc": [
+      "female",
+      "middle-aged",
+      "slow",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/3314_138053_000031_000000.wav"
+  },
+  "144": {
+    "id": "144",
+    "desc": [
+      "female",
+      "middle-aged",
+      "normal",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1263_138246_000020_000000.wav"
+  },
+  "145": {
+    "id": "145",
+    "desc": [
+      "female",
+      "teenager",
+      "fast",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/294_130872_000016_000000.wav"
+  },
+  "146": {
+    "id": "146",
+    "desc": [
+      "female",
+      "young adult",
+      "normal",
+      "low",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6763_74797_000022_000002.wav"
+  },
+  "147": {
+    "id": "147",
+    "desc": [
+      "female",
+      "middle-aged",
+      "slow",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/4697_92150_000002_000000.wav"
+  },
+  "148": {
+    "id": "148",
+    "desc": [
+      "female",
+      "teenager",
+      "slow",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7699_105399_000024_000000.wav"
+  },
+  "149": {
+    "id": "149",
+    "desc": [
+      "female",
+      "middle-aged",
+      "fast",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1813_142304_000042_000006.wav"
+  },
+  "150": {
+    "id": "150",
+    "desc": [
+      "female",
+      "middle-aged",
+      "normal",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/5039_1188_000044_000003.wav"
+  },
+  "151": {
+    "id": "151",
+    "desc": [
+      "female",
+      "middle-aged",
+      "slow",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/4321_27565_000012_000004.wav"
+  },
+  "152": {
+    "id": "152",
+    "desc": [
+      "male",
+      "elderly",
+      "normal",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6563_285357_000001_000001.wav"
+  },
+  "153": {
+    "id": "153",
+    "desc": [
+      "female",
+      "teenager",
+      "normal",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/318_124224_000110_000000.wav"
+  },
+  "154": {
+    "id": "154",
+    "desc": [
+      "female",
+      "middle-aged",
+      "slow",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7342_73961_000004_000000.wav"
+  },
+  "155": {
+    "id": "155",
+    "desc": [
+      "female",
+      "teenager",
+      "fast",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/5299_34546_000029_000001.wav"
+  },
+  "156": {
+    "id": "156",
+    "desc": [
+      "male",
+      "middle-aged",
+      "fast",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/851_131029_000016_000002.wav"
+  },
+  "157": {
+    "id": "157",
+    "desc": [
+      "male",
+      "young adult",
+      "slow",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2289_152258_000030_000000.wav"
+  },
+  "158": {
+    "id": "158",
+    "desc": [
+      "female",
+      "teenager",
+      "slow",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7525_92915_000008_000001.wav"
+  },
+  "159": {
+    "id": "159",
+    "desc": [
+      "female",
+      "teenager",
+      "normal",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/112_121671_000021_000000.wav"
+  },
+  "160": {
+    "id": "160",
+    "desc": [
+      "female",
+      "teenager",
+      "fast",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/4592_22178_000001_000002.wav"
+  },
+  "161": {
+    "id": "161",
+    "desc": [
+      "female",
+      "middle-aged",
+      "slow",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2925_162505_000037_000000.wav"
+  },
+  "162": {
+    "id": "162",
+    "desc": [
+      "male",
+      "middle-aged",
+      "slow",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/4441_76263_000080_000000.wav"
+  },
+  "163": {
+    "id": "163",
+    "desc": [
+      "female",
+      "middle-aged",
+      "normal",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/5980_22680_000002_000007.wav"
+  },
+  "164": {
+    "id": "164",
+    "desc": [
+      "male",
+      "middle-aged",
+      "normal",
+      "low",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/5913_40745_000030_000000.wav"
+  },
+  "165": {
+    "id": "165",
+    "desc": [
+      "female",
+      "teenager",
+      "normal",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6476_57446_000032_000000.wav"
+  },
+  "166": {
+    "id": "166",
+    "desc": [
+      "female",
+      "young adult",
+      "slow",
+      "low",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/3244_174926_000007_000001.wav"
+  },
+  "167": {
+    "id": "167",
+    "desc": [
+      "male",
+      "middle-aged",
+      "slow",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/4010_10798_000005_000002.wav"
+  },
+  "168": {
+    "id": "168",
+    "desc": [
+      "female",
+      "teenager",
+      "fast",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1012_133424_000132_000001.wav"
+  },
+  "169": {
+    "id": "169",
+    "desc": [
+      "male",
+      "young adult",
+      "slow",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/8713_296159_000007_000009.wav"
+  },
+  "170": {
+    "id": "170",
+    "desc": [
+      "male",
+      "middle-aged",
+      "slow",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1341_9206_000102_000000.wav"
+  },
+  "171": {
+    "id": "171",
+    "desc": [
+      "female",
+      "young adult",
+      "fast",
+      "low",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/5660_101892_000028_000001.wav"
+  },
+  "172": {
+    "id": "172",
+    "desc": [
+      "male",
+      "middle-aged",
+      "normal",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7540_101262_000009_000002.wav"
+  },
+  "173": {
+    "id": "173",
+    "desc": [
+      "female",
+      "teenager",
+      "normal",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/3728_105398_000027_000001.wav"
+  },
+  "174": {
+    "id": "174",
+    "desc": [
+      "female",
+      "young adult",
+      "fast",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1664_122623_000037_000000.wav"
+  },
+  "175": {
+    "id": "175",
+    "desc": [
+      "male",
+      "middle-aged",
+      "fast",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/3587_140711_000008_000000.wav"
+  },
+  "176": {
+    "id": "176",
+    "desc": [
+      "male",
+      "young adult",
+      "fast",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7478_98645_000002_000000.wav"
+  },
+  "177": {
+    "id": "177",
+    "desc": [
+      "male",
+      "elderly",
+      "slow",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1572_141715_000004_000004.wav"
+  },
+  "178": {
+    "id": "178",
+    "desc": [
+      "male",
+      "middle-aged",
+      "normal",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1097_136912_000018_000003.wav"
+  },
+  "179": {
+    "id": "179",
+    "desc": [
+      "male",
+      "young adult",
+      "normal",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/781_127518_000075_000006.wav"
+  },
+  "180": {
+    "id": "180",
+    "desc": [
+      "male",
+      "middle-aged",
+      "normal",
+      "low",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2499_156153_000006_000004.wav"
+  },
+  "181": {
+    "id": "181",
+    "desc": [
+      "female",
+      "middle-aged",
+      "normal",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6014_32886_000027_000000.wav"
+  },
+  "182": {
+    "id": "182",
+    "desc": [
+      "male",
+      "middle-aged",
+      "fast",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/4243_187023_000008_000002.wav"
+  },
+  "183": {
+    "id": "183",
+    "desc": [
+      "female",
+      "middle-aged",
+      "slow",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1923_161975_000003_000001.wav"
+  },
+  "184": {
+    "id": "184",
+    "desc": [
+      "female",
+      "young adult",
+      "slow",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/598_127703_000020_000000.wav"
+  },
+  "185": {
+    "id": "185",
+    "desc": [
+      "male",
+      "middle-aged",
+      "fast",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/707_138866_000019_000005.wav"
+  },
+  "186": {
+    "id": "186",
+    "desc": [
+      "male",
+      "young adult",
+      "slow",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/207_143321_000070_000001.wav"
+  },
+  "187": {
+    "id": "187",
+    "desc": [
+      "male",
+      "young adult",
+      "normal",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2812_160187_000001_000002.wav"
+  },
+  "188": {
+    "id": "188",
+    "desc": [
+      "male",
+      "middle-aged",
+      "slow",
+      "low",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2823_160964_000007_000004.wav"
+  },
+  "189": {
+    "id": "189",
+    "desc": [
+      "male",
+      "young adult",
+      "slow",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6954_76579_000001_000000.wav"
+  },
+  "190": {
+    "id": "190",
+    "desc": [
+      "male",
+      "young adult",
+      "slow",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/3070_166423_000005_000002.wav"
+  },
+  "191": {
+    "id": "191",
+    "desc": [
+      "male",
+      "young adult",
+      "normal",
+      "low",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/4133_6541_000014_000000.wav"
+  },
+  "192": {
+    "id": "192",
+    "desc": [
+      "male",
+      "middle-aged",
+      "fast",
+      "low",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1795_142410_000007_000007.wav"
+  },
+  "193": {
+    "id": "193",
+    "desc": [
+      "male",
+      "young adult",
+      "normal",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/90_130566_000010_000002.wav"
+  },
+  "194": {
+    "id": "194",
+    "desc": [
+      "male",
+      "middle-aged",
+      "fast",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6506_10073_000007_000004.wav"
+  },
+  "195": {
+    "id": "195",
+    "desc": [
+      "male",
+      "middle-aged",
+      "slow",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6882_79975_000034_000000.wav"
+  },
+  "196": {
+    "id": "196",
+    "desc": [
+      "male",
+      "young adult",
+      "fast",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/311_124404_000003_000000.wav"
+  },
+  "197": {
+    "id": "197",
+    "desc": [
+      "male",
+      "middle-aged",
+      "slow",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/711_187466_000010_000001.wav"
+  },
+  "198": {
+    "id": "198",
+    "desc": [
+      "female",
+      "young adult",
+      "slow",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2920_156224_000009_000002.wav"
+  },
+  "199": {
+    "id": "199",
+    "desc": [
+      "male",
+      "young adult",
+      "slow",
+      "low",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6258_49755_000021_000000.wav"
+  },
+  "200": {
+    "id": "200",
+    "desc": [
+      "female",
+      "young adult",
+      "normal",
+      "high",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/3911_8888_000043_000001.wav"
+  },
+  "201": {
+    "id": "201",
+    "desc": [
+      "female",
+      "young adult",
+      "fast",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7416_103126_000014_000004.wav"
+  },
+  "202": {
+    "id": "202",
+    "desc": [
+      "male",
+      "middle-aged",
+      "normal",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/3105_166683_000024_000007.wav"
+  },
+  "203": {
+    "id": "203",
+    "desc": [
+      "male",
+      "middle-aged",
+      "slow",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/6269_66176_000029_000000.wav"
+  },
+  "204": {
+    "id": "204",
+    "desc": [
+      "female",
+      "young adult",
+      "slow",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7433_89656_000006_000001.wav"
+  },
+  "205": {
+    "id": "205",
+    "desc": [
+      "female",
+      "young adult",
+      "fast",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/8677_296078_000025_000003.wav"
+  },
+  "206": {
+    "id": "206",
+    "desc": [
+      "female",
+      "young adult",
+      "normal",
+      "high",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/115_121720_000028_000000.wav"
+  },
+  "207": {
+    "id": "207",
+    "desc": [
+      "female",
+      "young adult",
+      "slow",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7250_86746_000191_000000.wav"
+  },
+  "208": {
+    "id": "208",
+    "desc": [
+      "male",
+      "young adult",
+      "normal",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/8176_115046_000026_000002.wav"
+  },
+  "209": {
+    "id": "209",
+    "desc": [
+      "male",
+      "young adult",
+      "normal",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/2688_144987_000077_000000.wav"
+  },
+  "210": {
+    "id": "210",
+    "desc": [
+      "female",
+      "young adult",
+      "normal",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/8825_292252_000020_000000.wav"
+  },
+  "211": {
+    "id": "211",
+    "desc": [
+      "female",
+      "young adult",
+      "normal",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/5355_10766_000001_000000.wav"
+  },
+  "212": {
+    "id": "212",
+    "desc": [
+      "male",
+      "middle-aged",
+      "normal",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/4193_48173_000020_000001.wav"
+  },
+  "213": {
+    "id": "213",
+    "desc": [
+      "male",
+      "young adult",
+      "fast",
+      "low",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/500_125123_000086_000000.wav"
+  },
+  "214": {
+    "id": "214",
+    "desc": [
+      "female",
+      "young adult",
+      "fast",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1224_121064_000044_000000.wav"
+  },
+  "215": {
+    "id": "215",
+    "desc": [
+      "male",
+      "young adult",
+      "fast",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7608_115034_000018_000001.wav"
+  },
+  "216": {
+    "id": "216",
+    "desc": [
+      "female",
+      "young adult",
+      "normal",
+      "normal",
+      "high"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1717_142305_000061_000003.wav"
+  },
+  "217": {
+    "id": "217",
+    "desc": [
+      "male",
+      "young adult",
+      "fast",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/66_354_000019_000003.wav"
+  },
+  "218": {
+    "id": "218",
+    "desc": [
+      "female",
+      "young adult",
+      "slow",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/402_126843_000000_000001.wav"
+  },
+  "219": {
+    "id": "219",
+    "desc": [
+      "female",
+      "young adult",
+      "normal",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1731_142320_000011_000000.wav"
+  },
+  "220": {
+    "id": "220",
+    "desc": [
+      "female",
+      "young adult",
+      "fast",
+      "normal",
+      "normal"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/4964_30587_000117_000001.wav"
+  },
+  "221": {
+    "id": "221",
+    "desc": [
+      "female",
+      "young adult",
+      "slow",
+      "high",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/1750_135624_000065_000003.wav"
+  },
+  "222": {
+    "id": "222",
+    "desc": [
+      "female",
+      "young adult",
+      "fast",
+      "normal",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/4513_16024_000006_000004.wav"
+  },
+  "223": {
+    "id": "223",
+    "desc": [
+      "male",
+      "young adult",
+      "fast",
+      "low",
+      "low"
+    ],
+    "wav_path": "data/voice_presets_cv_en/ref_wav/7518_86741_000064_000000.wav"
+  }
+}

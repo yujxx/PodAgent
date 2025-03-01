@@ -1,0 +1,12 @@
+### Dialogues-1:
+${dialogue1_to_be_evaluated}
+### Dialogues-2:
+${dialogue2_to_be_evaluated}
+## Instruction:
+Compare the coherence, engagingness, diversity, informativeness, and overall quality of the two input dialogue. 
+Additionally, compare the speaker diversity (except the host). A greater speaker diversity means the viewpoints provided by each speaker are more differentiated. 
+Set the Dialogues-1 as reference with score as 0, rate each metric from -3 to 3, where a positive score means Dialogues-2 performs better than Dialogues-1, while a negative score indicates it performs worse.
+Please first provide your analysis process and then give the score.
+### Output Format (json):
+{"analysis":..., "coherence": x, "engagingness": x, "diversity": x, "informativeness": x, "overall": x, "speaker_difference": x}
+### Your Response:

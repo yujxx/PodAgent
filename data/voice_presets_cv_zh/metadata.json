@@ -1,0 +1,1894 @@
+{
+  "0": {
+    "id": "0",
+    "desc": [
+      "女",
+      "小孩",
+      "快",
+      "中",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930128.wav"
+  },
+  "1": {
+    "id": "1",
+    "desc": [
+      "女",
+      "小孩",
+      "快",
+      "低",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930434.wav"
+  },
+  "2": {
+    "id": "2",
+    "desc": [
+      "女",
+      "小孩",
+      "慢",
+      "低",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930264.wav"
+  },
+  "3": {
+    "id": "3",
+    "desc": [
+      "女",
+      "小孩",
+      "中",
+      "低",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930443.wav"
+  },
+  "4": {
+    "id": "4",
+    "desc": [
+      "女",
+      "小孩",
+      "中",
+      "高",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930356.wav"
+  },
+  "5": {
+    "id": "5",
+    "desc": [
+      "女",
+      "小孩",
+      "慢",
+      "高",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930338.wav"
+  },
+  "6": {
+    "id": "6",
+    "desc": [
+      "女",
+      "小孩",
+      "中",
+      "低",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930226.wav"
+  },
+  "7": {
+    "id": "7",
+    "desc": [
+      "女",
+      "小孩",
+      "快",
+      "低",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930225.wav"
+  },
+  "8": {
+    "id": "8",
+    "desc": [
+      "女",
+      "小孩",
+      "快",
+      "中",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930147.wav"
+  },
+  "9": {
+    "id": "9",
+    "desc": [
+      "女",
+      "小孩",
+      "慢",
+      "中",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930355.wav"
+  },
+  "10": {
+    "id": "10",
+    "desc": [
+      "女",
+      "小孩",
+      "中",
+      "中",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930178.wav"
+  },
+  "11": {
+    "id": "11",
+    "desc": [
+      "女",
+      "小孩",
+      "慢",
+      "高",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930026.wav"
+  },
+  "12": {
+    "id": "12",
+    "desc": [
+      "女",
+      "小孩",
+      "快",
+      "高",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930354.wav"
+  },
+  "13": {
+    "id": "13",
+    "desc": [
+      "女",
+      "小孩",
+      "快",
+      "中",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930150.wav"
+  },
+  "14": {
+    "id": "14",
+    "desc": [
+      "女",
+      "小孩",
+      "慢",
+      "低",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930310.wav"
+  },
+  "15": {
+    "id": "15",
+    "desc": [
+      "女",
+      "小孩",
+      "快",
+      "高",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930024.wav"
+  },
+  "16": {
+    "id": "16",
+    "desc": [
+      "女",
+      "小孩",
+      "中",
+      "中",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930392.wav"
+  },
+  "17": {
+    "id": "17",
+    "desc": [
+      "女",
+      "小孩",
+      "中",
+      "高",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930391.wav"
+  },
+  "18": {
+    "id": "18",
+    "desc": [
+      "女",
+      "小孩",
+      "中",
+      "高",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930420.wav"
+  },
+  "19": {
+    "id": "19",
+    "desc": [
+      "女",
+      "小孩",
+      "慢",
+      "高",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930238.wav"
+  },
+  "20": {
+    "id": "20",
+    "desc": [
+      "女",
+      "小孩",
+      "慢",
+      "中",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930432.wav"
+  },
+  "21": {
+    "id": "21",
+    "desc": [
+      "男",
+      "中年",
+      "快",
+      "低",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340319.wav"
+  },
+  "22": {
+    "id": "22",
+    "desc": [
+      "男",
+      "中年",
+      "中",
+      "中",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340059.wav"
+  },
+  "23": {
+    "id": "23",
+    "desc": [
+      "男",
+      "中年",
+      "中",
+      "中",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340198.wav"
+  },
+  "24": {
+    "id": "24",
+    "desc": [
+      "男",
+      "中年",
+      "中",
+      "中",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340118.wav"
+  },
+  "25": {
+    "id": "25",
+    "desc": [
+      "男",
+      "中年",
+      "慢",
+      "中",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340050.wav"
+  },
+  "26": {
+    "id": "26",
+    "desc": [
+      "男",
+      "中年",
+      "慢",
+      "中",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340477.wav"
+  },
+  "27": {
+    "id": "27",
+    "desc": [
+      "男",
+      "中年",
+      "慢",
+      "高",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340100.wav"
+  },
+  "28": {
+    "id": "28",
+    "desc": [
+      "男",
+      "中年",
+      "快",
+      "中",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340258.wav"
+  },
+  "29": {
+    "id": "29",
+    "desc": [
+      "男",
+      "中年",
+      "中",
+      "高",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340271.wav"
+  },
+  "30": {
+    "id": "30",
+    "desc": [
+      "男",
+      "中年",
+      "快",
+      "中",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340158.wav"
+  },
+  "31": {
+    "id": "31",
+    "desc": [
+      "男",
+      "中年",
+      "快",
+      "中",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340140.wav"
+  },
+  "32": {
+    "id": "32",
+    "desc": [
+      "男",
+      "中年",
+      "慢",
+      "高",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340089.wav"
+  },
+  "33": {
+    "id": "33",
+    "desc": [
+      "男",
+      "中年",
+      "慢",
+      "高",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340228.wav"
+  },
+  "34": {
+    "id": "34",
+    "desc": [
+      "男",
+      "中年",
+      "中",
+      "高",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340317.wav"
+  },
+  "35": {
+    "id": "35",
+    "desc": [
+      "男",
+      "中年",
+      "快",
+      "高",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340459.wav"
+  },
+  "36": {
+    "id": "36",
+    "desc": [
+      "男",
+      "中年",
+      "中",
+      "高",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340101.wav"
+  },
+  "37": {
+    "id": "37",
+    "desc": [
+      "男",
+      "中年",
+      "快",
+      "高",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340289.wav"
+  },
+  "38": {
+    "id": "38",
+    "desc": [
+      "男",
+      "中年",
+      "快",
+      "高",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340262.wav"
+  },
+  "39": {
+    "id": "39",
+    "desc": [
+      "男",
+      "青年",
+      "快",
+      "高",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB02610014.wav"
+  },
+  "40": {
+    "id": "40",
+    "desc": [
+      "男",
+      "青年",
+      "中",
+      "高",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB02610011.wav"
+  },
+  "41": {
+    "id": "41",
+    "desc": [
+      "男",
+      "青年",
+      "中",
+      "高",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07100150.wav"
+  },
+  "42": {
+    "id": "42",
+    "desc": [
+      "男",
+      "青年",
+      "快",
+      "高",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07100124.wav"
+  },
+  "43": {
+    "id": "43",
+    "desc": [
+      "女",
+      "青年",
+      "快",
+      "高",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB18280060.wav"
+  },
+  "44": {
+    "id": "44",
+    "desc": [
+      "女",
+      "中年",
+      "快",
+      "中",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07370237.wav"
+  },
+  "45": {
+    "id": "45",
+    "desc": [
+      "女",
+      "中年",
+      "中",
+      "中",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07370156.wav"
+  },
+  "46": {
+    "id": "46",
+    "desc": [
+      "女",
+      "中年",
+      "中",
+      "高",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07370235.wav"
+  },
+  "47": {
+    "id": "47",
+    "desc": [
+      "女",
+      "中年",
+      "中",
+      "中",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07370368.wav"
+  },
+  "48": {
+    "id": "48",
+    "desc": [
+      "女",
+      "中年",
+      "中",
+      "高",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07370155.wav"
+  },
+  "49": {
+    "id": "49",
+    "desc": [
+      "女",
+      "中年",
+      "快",
+      "高",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07370183.wav"
+  },
+  "50": {
+    "id": "50",
+    "desc": [
+      "女",
+      "中年",
+      "中",
+      "低",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03540002.wav"
+  },
+  "51": {
+    "id": "51",
+    "desc": [
+      "女",
+      "中年",
+      "慢",
+      "低",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03540455.wav"
+  },
+  "52": {
+    "id": "52",
+    "desc": [
+      "女",
+      "中年",
+      "快",
+      "低",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03540330.wav"
+  },
+  "53": {
+    "id": "53",
+    "desc": [
+      "女",
+      "中年",
+      "快",
+      "低",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03540250.wav"
+  },
+  "54": {
+    "id": "54",
+    "desc": [
+      "女",
+      "中年",
+      "慢",
+      "低",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060018.wav"
+  },
+  "55": {
+    "id": "55",
+    "desc": [
+      "女",
+      "中年",
+      "快",
+      "高",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060130.wav"
+  },
+  "56": {
+    "id": "56",
+    "desc": [
+      "女",
+      "中年",
+      "慢",
+      "高",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060096.wav"
+  },
+  "57": {
+    "id": "57",
+    "desc": [
+      "女",
+      "中年",
+      "快",
+      "中",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060131.wav"
+  },
+  "58": {
+    "id": "58",
+    "desc": [
+      "女",
+      "中年",
+      "慢",
+      "中",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060087.wav"
+  },
+  "59": {
+    "id": "59",
+    "desc": [
+      "女",
+      "中年",
+      "中",
+      "高",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060125.wav"
+  },
+  "60": {
+    "id": "60",
+    "desc": [
+      "女",
+      "中年",
+      "快",
+      "中",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060022.wav"
+  },
+  "61": {
+    "id": "61",
+    "desc": [
+      "女",
+      "中年",
+      "慢",
+      "高",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060280.wav"
+  },
+  "62": {
+    "id": "62",
+    "desc": [
+      "女",
+      "中年",
+      "中",
+      "中",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060482.wav"
+  },
+  "63": {
+    "id": "63",
+    "desc": [
+      "女",
+      "中年",
+      "慢",
+      "高",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060037.wav"
+  },
+  "64": {
+    "id": "64",
+    "desc": [
+      "女",
+      "中年",
+      "慢",
+      "中",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060086.wav"
+  },
+  "65": {
+    "id": "65",
+    "desc": [
+      "女",
+      "中年",
+      "慢",
+      "低",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060146.wav"
+  },
+  "66": {
+    "id": "66",
+    "desc": [
+      "女",
+      "中年",
+      "中",
+      "低",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060469.wav"
+  },
+  "67": {
+    "id": "67",
+    "desc": [
+      "女",
+      "中年",
+      "快",
+      "高",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03090419.wav"
+  },
+  "68": {
+    "id": "68",
+    "desc": [
+      "女",
+      "中年",
+      "慢",
+      "中",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03090323.wav"
+  },
+  "69": {
+    "id": "69",
+    "desc": [
+      "男",
+      "青年",
+      "中",
+      "中",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840411.wav"
+  },
+  "70": {
+    "id": "70",
+    "desc": [
+      "男",
+      "青年",
+      "快",
+      "中",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840301.wav"
+  },
+  "71": {
+    "id": "71",
+    "desc": [
+      "男",
+      "青年",
+      "快",
+      "高",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840137.wav"
+  },
+  "72": {
+    "id": "72",
+    "desc": [
+      "男",
+      "青年",
+      "中",
+      "高",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840255.wav"
+  },
+  "73": {
+    "id": "73",
+    "desc": [
+      "男",
+      "青年",
+      "快",
+      "中",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840123.wav"
+  },
+  "74": {
+    "id": "74",
+    "desc": [
+      "男",
+      "青年",
+      "慢",
+      "中",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840320.wav"
+  },
+  "75": {
+    "id": "75",
+    "desc": [
+      "男",
+      "青年",
+      "中",
+      "中",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840081.wav"
+  },
+  "76": {
+    "id": "76",
+    "desc": [
+      "男",
+      "青年",
+      "中",
+      "低",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840447.wav"
+  },
+  "77": {
+    "id": "77",
+    "desc": [
+      "男",
+      "青年",
+      "慢",
+      "中",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06090228.wav"
+  },
+  "78": {
+    "id": "78",
+    "desc": [
+      "男",
+      "青年",
+      "慢",
+      "中",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06090072.wav"
+  },
+  "79": {
+    "id": "79",
+    "desc": [
+      "男",
+      "青年",
+      "中",
+      "中",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06090248.wav"
+  },
+  "80": {
+    "id": "80",
+    "desc": [
+      "男",
+      "青年",
+      "中",
+      "低",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06090410.wav"
+  },
+  "81": {
+    "id": "81",
+    "desc": [
+      "男",
+      "青年",
+      "慢",
+      "低",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06090214.wav"
+  },
+  "82": {
+    "id": "82",
+    "desc": [
+      "男",
+      "青年",
+      "慢",
+      "低",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06090163.wav"
+  },
+  "83": {
+    "id": "83",
+    "desc": [
+      "男",
+      "青年",
+      "慢",
+      "高",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB11000448.wav"
+  },
+  "84": {
+    "id": "84",
+    "desc": [
+      "男",
+      "青年",
+      "快",
+      "中",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB11000058.wav"
+  },
+  "85": {
+    "id": "85",
+    "desc": [
+      "男",
+      "青年",
+      "快",
+      "低",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB11000110.wav"
+  },
+  "86": {
+    "id": "86",
+    "desc": [
+      "男",
+      "青年",
+      "慢",
+      "高",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05900249.wav"
+  },
+  "87": {
+    "id": "87",
+    "desc": [
+      "男",
+      "青年",
+      "慢",
+      "低",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05900458.wav"
+  },
+  "88": {
+    "id": "88",
+    "desc": [
+      "女",
+      "青年",
+      "中",
+      "高",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03410397.wav"
+  },
+  "89": {
+    "id": "89",
+    "desc": [
+      "女",
+      "青年",
+      "快",
+      "中",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB18910206.wav"
+  },
+  "90": {
+    "id": "90",
+    "desc": [
+      "男",
+      "少年",
+      "慢",
+      "高",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB02410144.wav"
+  },
+  "91": {
+    "id": "91",
+    "desc": [
+      "女",
+      "青年",
+      "慢",
+      "高",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB02880303.wav"
+  },
+  "92": {
+    "id": "92",
+    "desc": [
+      "女",
+      "中年",
+      "中",
+      "低",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB10500228.wav"
+  },
+  "93": {
+    "id": "93",
+    "desc": [
+      "女",
+      "青年",
+      "中",
+      "中",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05340449.wav"
+  },
+  "94": {
+    "id": "94",
+    "desc": [
+      "男",
+      "青年",
+      "中",
+      "低",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04070327.wav"
+  },
+  "95": {
+    "id": "95",
+    "desc": [
+      "男",
+      "青年",
+      "快",
+      "低",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04070412.wav"
+  },
+  "96": {
+    "id": "96",
+    "desc": [
+      "男",
+      "青年",
+      "快",
+      "低",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04070389.wav"
+  },
+  "97": {
+    "id": "97",
+    "desc": [
+      "女",
+      "青年",
+      "快",
+      "低",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06710047.wav"
+  },
+  "98": {
+    "id": "98",
+    "desc": [
+      "男",
+      "少年",
+      "中",
+      "高",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB11360206.wav"
+  },
+  "99": {
+    "id": "99",
+    "desc": [
+      "女",
+      "青年",
+      "慢",
+      "中",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06660072.wav"
+  },
+  "100": {
+    "id": "100",
+    "desc": [
+      "女",
+      "青年",
+      "快",
+      "高",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390343.wav"
+  },
+  "101": {
+    "id": "101",
+    "desc": [
+      "女",
+      "青年",
+      "慢",
+      "低",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390142.wav"
+  },
+  "102": {
+    "id": "102",
+    "desc": [
+      "女",
+      "青年",
+      "中",
+      "低",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390420.wav"
+  },
+  "103": {
+    "id": "103",
+    "desc": [
+      "女",
+      "青年",
+      "快",
+      "低",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390180.wav"
+  },
+  "104": {
+    "id": "104",
+    "desc": [
+      "女",
+      "青年",
+      "快",
+      "低",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390425.wav"
+  },
+  "105": {
+    "id": "105",
+    "desc": [
+      "女",
+      "青年",
+      "快",
+      "中",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390381.wav"
+  },
+  "106": {
+    "id": "106",
+    "desc": [
+      "女",
+      "青年",
+      "慢",
+      "高",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390156.wav"
+  },
+  "107": {
+    "id": "107",
+    "desc": [
+      "女",
+      "青年",
+      "中",
+      "中",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390252.wav"
+  },
+  "108": {
+    "id": "108",
+    "desc": [
+      "女",
+      "青年",
+      "快",
+      "高",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB13660186.wav"
+  },
+  "109": {
+    "id": "109",
+    "desc": [
+      "男",
+      "少年",
+      "快",
+      "高",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB10200282.wav"
+  },
+  "110": {
+    "id": "110",
+    "desc": [
+      "男",
+      "少年",
+      "慢",
+      "中",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06230439.wav"
+  },
+  "111": {
+    "id": "111",
+    "desc": [
+      "男",
+      "少年",
+      "快",
+      "高",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06230310.wav"
+  },
+  "112": {
+    "id": "112",
+    "desc": [
+      "女",
+      "青年",
+      "中",
+      "低",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB14370201.wav"
+  },
+  "113": {
+    "id": "113",
+    "desc": [
+      "男",
+      "少年",
+      "中",
+      "高",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05350356.wav"
+  },
+  "114": {
+    "id": "114",
+    "desc": [
+      "男",
+      "少年",
+      "快",
+      "低",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB00730075.wav"
+  },
+  "115": {
+    "id": "115",
+    "desc": [
+      "男",
+      "少年",
+      "快",
+      "低",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB00730085.wav"
+  },
+  "116": {
+    "id": "116",
+    "desc": [
+      "男",
+      "少年",
+      "快",
+      "低",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB00730052.wav"
+  },
+  "117": {
+    "id": "117",
+    "desc": [
+      "男",
+      "少年",
+      "中",
+      "低",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB09660055.wav"
+  },
+  "118": {
+    "id": "118",
+    "desc": [
+      "男",
+      "少年",
+      "中",
+      "中",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03940361.wav"
+  },
+  "119": {
+    "id": "119",
+    "desc": [
+      "男",
+      "少年",
+      "中",
+      "中",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06030408.wav"
+  },
+  "120": {
+    "id": "120",
+    "desc": [
+      "女",
+      "青年",
+      "慢",
+      "低",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB16250123.wav"
+  },
+  "121": {
+    "id": "121",
+    "desc": [
+      "男",
+      "少年",
+      "慢",
+      "高",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06290259.wav"
+  },
+  "122": {
+    "id": "122",
+    "desc": [
+      "女",
+      "青年",
+      "中",
+      "高",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB16990325.wav"
+  },
+  "123": {
+    "id": "123",
+    "desc": [
+      "男",
+      "少年",
+      "快",
+      "中",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05440074.wav"
+  },
+  "124": {
+    "id": "124",
+    "desc": [
+      "女",
+      "青年",
+      "慢",
+      "高",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB02670395.wav"
+  },
+  "125": {
+    "id": "125",
+    "desc": [
+      "男",
+      "少年",
+      "快",
+      "中",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB19350199.wav"
+  },
+  "126": {
+    "id": "126",
+    "desc": [
+      "男",
+      "少年",
+      "慢",
+      "低",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06310046.wav"
+  },
+  "127": {
+    "id": "127",
+    "desc": [
+      "女",
+      "青年",
+      "中",
+      "中",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05990028.wav"
+  },
+  "128": {
+    "id": "128",
+    "desc": [
+      "女",
+      "青年",
+      "慢",
+      "中",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB12030109.wav"
+  },
+  "129": {
+    "id": "129",
+    "desc": [
+      "男",
+      "少年",
+      "中",
+      "低",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB16240249.wav"
+  },
+  "130": {
+    "id": "130",
+    "desc": [
+      "男",
+      "少年",
+      "慢",
+      "高",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB16840095.wav"
+  },
+  "131": {
+    "id": "131",
+    "desc": [
+      "男",
+      "少年",
+      "慢",
+      "中",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03750076.wav"
+  },
+  "132": {
+    "id": "132",
+    "desc": [
+      "女",
+      "青年",
+      "快",
+      "中",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB00110215.wav"
+  },
+  "133": {
+    "id": "133",
+    "desc": [
+      "男",
+      "少年",
+      "中",
+      "高",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03160043.wav"
+  },
+  "134": {
+    "id": "134",
+    "desc": [
+      "女",
+      "青年",
+      "中",
+      "高",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB01970209.wav"
+  },
+  "135": {
+    "id": "135",
+    "desc": [
+      "女",
+      "青年",
+      "慢",
+      "中",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06140373.wav"
+  },
+  "136": {
+    "id": "136",
+    "desc": [
+      "男",
+      "少年",
+      "快",
+      "高",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB18630016.wav"
+  },
+  "137": {
+    "id": "137",
+    "desc": [
+      "男",
+      "少年",
+      "慢",
+      "低",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB14480356.wav"
+  },
+  "138": {
+    "id": "138",
+    "desc": [
+      "女",
+      "青年",
+      "中",
+      "低",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB08710208.wav"
+  },
+  "139": {
+    "id": "139",
+    "desc": [
+      "女",
+      "青年",
+      "慢",
+      "低",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06070002.wav"
+  },
+  "140": {
+    "id": "140",
+    "desc": [
+      "男",
+      "少年",
+      "慢",
+      "低",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB18310185.wav"
+  },
+  "141": {
+    "id": "141",
+    "desc": [
+      "男",
+      "少年",
+      "慢",
+      "中",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB02730428.wav"
+  },
+  "142": {
+    "id": "142",
+    "desc": [
+      "男",
+      "少年",
+      "中",
+      "低",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB01390239.wav"
+  },
+  "143": {
+    "id": "143",
+    "desc": [
+      "男",
+      "少年",
+      "中",
+      "中",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB08870225.wav"
+  },
+  "144": {
+    "id": "144",
+    "desc": [
+      "男",
+      "少年",
+      "快",
+      "中",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB08630250.wav"
+  },
+  "145": {
+    "id": "145",
+    "desc": [
+      "女",
+      "少年",
+      "慢",
+      "低",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB13410124.wav"
+  },
+  "146": {
+    "id": "146",
+    "desc": [
+      "女",
+      "少年",
+      "中",
+      "低",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06320310.wav"
+  },
+  "147": {
+    "id": "147",
+    "desc": [
+      "女",
+      "少年",
+      "快",
+      "低",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07200117.wav"
+  },
+  "148": {
+    "id": "148",
+    "desc": [
+      "女",
+      "少年",
+      "快",
+      "低",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB11310031.wav"
+  },
+  "149": {
+    "id": "149",
+    "desc": [
+      "女",
+      "少年",
+      "快",
+      "中",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB18370167.wav"
+  },
+  "150": {
+    "id": "150",
+    "desc": [
+      "女",
+      "少年",
+      "中",
+      "低",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06680105.wav"
+  },
+  "151": {
+    "id": "151",
+    "desc": [
+      "女",
+      "少年",
+      "中",
+      "低",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03790164.wav"
+  },
+  "152": {
+    "id": "152",
+    "desc": [
+      "女",
+      "少年",
+      "慢",
+      "中",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB00050085.wav"
+  },
+  "153": {
+    "id": "153",
+    "desc": [
+      "女",
+      "少年",
+      "快",
+      "高",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03660115.wav"
+  },
+  "154": {
+    "id": "154",
+    "desc": [
+      "女",
+      "少年",
+      "慢",
+      "高",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB12530180.wav"
+  },
+  "155": {
+    "id": "155",
+    "desc": [
+      "女",
+      "少年",
+      "快",
+      "高",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB09350307.wav"
+  },
+  "156": {
+    "id": "156",
+    "desc": [
+      "女",
+      "少年",
+      "快",
+      "中",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06010387.wav"
+  },
+  "157": {
+    "id": "157",
+    "desc": [
+      "女",
+      "少年",
+      "中",
+      "中",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB00180126.wav"
+  },
+  "158": {
+    "id": "158",
+    "desc": [
+      "女",
+      "少年",
+      "慢",
+      "中",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04350489.wav"
+  },
+  "159": {
+    "id": "159",
+    "desc": [
+      "女",
+      "少年",
+      "慢",
+      "低",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB01120044.wav"
+  },
+  "160": {
+    "id": "160",
+    "desc": [
+      "女",
+      "少年",
+      "中",
+      "高",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05880124.wav"
+  },
+  "161": {
+    "id": "161",
+    "desc": [
+      "女",
+      "少年",
+      "快",
+      "低",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB00430313.wav"
+  },
+  "162": {
+    "id": "162",
+    "desc": [
+      "女",
+      "少年",
+      "中",
+      "中",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB01220448.wav"
+  },
+  "163": {
+    "id": "163",
+    "desc": [
+      "女",
+      "少年",
+      "中",
+      "中",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB19180380.wav"
+  },
+  "164": {
+    "id": "164",
+    "desc": [
+      "女",
+      "少年",
+      "慢",
+      "中",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB09190443.wav"
+  },
+  "165": {
+    "id": "165",
+    "desc": [
+      "女",
+      "少年",
+      "慢",
+      "低",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB11610452.wav"
+  },
+  "166": {
+    "id": "166",
+    "desc": [
+      "女",
+      "少年",
+      "慢",
+      "高",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03230270.wav"
+  },
+  "167": {
+    "id": "167",
+    "desc": [
+      "女",
+      "少年",
+      "慢",
+      "高",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07580168.wav"
+  },
+  "168": {
+    "id": "168",
+    "desc": [
+      "女",
+      "少年",
+      "中",
+      "高",
+      "中"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07940095.wav"
+  },
+  "169": {
+    "id": "169",
+    "desc": [
+      "女",
+      "少年",
+      "快",
+      "高",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB19560109.wav"
+  },
+  "170": {
+    "id": "170",
+    "desc": [
+      "女",
+      "少年",
+      "中",
+      "高",
+      "高"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05700377.wav"
+  },
+  "171": {
+    "id": "171",
+    "desc": [
+      "女",
+      "少年",
+      "快",
+      "中",
+      "低"
+    ],
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03390231.wav"
+  }
+}

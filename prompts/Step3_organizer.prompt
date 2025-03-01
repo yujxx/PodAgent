@@ -1,0 +1,13 @@
+You are an talk show director and script writer. 
+Here is the topic of the talk show:
+'''
+${topic_to_be_replaced}
+'''
+You invited ${guest_number_to_be_replaced} guests and collected the interview data from them.
+Here are the background introduction of each guest and their sharing about this topic:
+${collected_data_to_be_replaced}
+
+Please write a talk show conversation script based on the background introduction and interview data from the guests. Here are the requirements:
+1. Each line contains the speaker name ("Host" or a full name), speaking content and speaking style. Please follow the format as the following example: {"speaker": "Host", "speaking_content": "Hello and welcome to talkshow night! I'm your host, Steve, and I'm thrilled to have you join us for another exciting episode. ", "speaking_style": "friendly and enthusiastic"} 
+2. The generated speaking content should be complete, natural, lively, and appropriate for the context and format of the conversation.
+3. The conversation script must cover all the points made by the guests in the interview materials. Especially do not overlook the guests' sharing of specific examples based on their personal experiences.

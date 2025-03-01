@@ -1,0 +1,9 @@
+### Dialogues:
+${dialogue_to_be_evaluated}
+## Instruction:
+Rate the coherence, engagingness, diversity, informativeness, and overall quality of the input dialogue on a scale of 1 to 5. 
+Aditionally, rate the difference in perspectives of the statements made by speakers other than the host on a scale of 1 to 5, providing the differences between each pair of speakers as well as the average.
+ratings.
+### Output Format (json):
+{"coherence": x, "engagingness": x, "diversity": x, "informativeness": x, "overall": x, "difference_speaker": {'speaker1_speaker2': x, ...}, "difference_average": x}
+### Your Response:
