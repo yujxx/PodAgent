@@ -69,6 +69,10 @@ export PODAGENT_MAX_SCRIPT_LINES=999
 ```bash
 bash scripts/start_services.sh
 ```
+- After that, please wait a moment and check the log in services_logs/service.out. When you see the following output, it means the services are ready to be called.
+```bash
+ * Running on http://127.0.0.1:8021
+```
 - (Optional) Kill the running services when you finish the usage. 
 ```bash
 python scripts/kill_services.py
@@ -86,6 +90,15 @@ export USE_OPENAI_CACHE=True
 ## Citation
 If you find this work useful, you can cite the paper below:
 
+    @misc{xiao2025podagentcomprehensiveframeworkpodcast,
+          title={PodAgent: A Comprehensive Framework for Podcast Generation}, 
+          author={Yujia Xiao and Lei He and Haohan Guo and Fenglong Xie and Tan Lee},
+          year={2025},
+          eprint={2503.00455},
+          archivePrefix={arXiv},
+          primaryClass={cs.SD},
+          url={https://arxiv.org/abs/2503.00455}, 
+    }
 
 ## Appreciation
 - [WavJourney](https://github.com/Audio-AGI/WavJourney) for providing an extensive audio generation workflow.
