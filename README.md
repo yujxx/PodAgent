@@ -1,8 +1,8 @@
 # <span style="color: blue;">🎧</span> PodAgent: A Comprehensive Framework for Podcast Generation
-[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/xxx) [![githubio](https://img.shields.io/badge/GitHub.io-Demo_Page-blue?logo=Github&style=flat-square)](https://podcast-agent.github.io/demo/) 
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2503.00455) [![githubio](https://img.shields.io/badge/GitHub.io-Demo_Page-blue?logo=Github&style=flat-square)](https://podcast-agent.github.io/demo/) 
 
 
-This repository contains the official implementation of ["PodAgent: A Comprehensive Framework for Podcast Generation"](https://arxiv.org/abs/xxx).
+This repository contains the official implementation of ["PodAgent: A Comprehensive Framework for Podcast Generation"](https://arxiv.org/abs/2503.00455).
 
 Given the topic to be discussed, PodAgent will simulate human behavior to create podcast-like audio presented as a talk show, featuring one host and several guests. The show will include diverse and insightful viewpoints, delivered in appropriate voices, along with structured sound effects and background music to enrich the listening experience.
 
