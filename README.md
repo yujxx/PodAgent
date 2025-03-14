@@ -13,6 +13,8 @@ Given the topic to be discussed, PodAgent will simulate human behavior to create
 
 <hr>
 
+## News
+- 🥂 2025.03 PodAgent is released! We currently support podcast generation in two languages: English and Chinese.
 
 ## Download Codes
 1. Download PodAgent

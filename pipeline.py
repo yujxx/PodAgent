@@ -8,8 +8,8 @@ import pickle
 import time
 import json5
 from retrying import retry
-from code_generator import check_json_script, collect_and_check_audio_data
-from utils import check_conversation_script
+from code_generator import collect_and_check_audio_data
+from utils import check_conversation_script, check_json_script, check_map
 import random
 import string
 import asyncio
@@ -326,9 +326,10 @@ def role_to_voice_map(lang, voices, output_path, api_key):
         prompt = get_file_content('prompts/bginfo_to_voice_map.prompt')
 
     bg_info_file = get_file_content(f'{output_path}/Step1_output.json')
-    bg_ingo = json5.loads(bg_info_file)
-    prompt = prompt.replace('${info_to_be_replaced}', json5.dumps(bg_ingo, ensure_ascii=False))
+    bg_info = json5.loads(bg_info_file)
 
+    prompt = prompt.replace('${info_to_be_replaced}', json5.dumps(bg_info, ensure_ascii=False))
+    
     presets = '\n'.join(f"{preset['id']}: {preset['desc']}" for preset in voices.values())
     prompt = prompt.replace('${voice_and_desc}', json5.dumps(presets, ensure_ascii=False))
 
@@ -337,6 +338,7 @@ def role_to_voice_map(lang, voices, output_path, api_key):
 
     try:
         char_voice_map = json5.loads(char_voice_map_response)
+        char_voice_map = check_map(char_voice_map, bg_info)
     except Exception as err:
         requirement = 'The script should in json format as {"":"", "":"", ...}.'
         char_voice_map_response = format_script_with_retry(char_voice_map_response, requirement, api_key)
