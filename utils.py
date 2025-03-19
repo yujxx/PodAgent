@@ -209,7 +209,7 @@ def check_map(char_voice_map, bg_info):
     name_dict = {name.replace('_', '').replace(' ', '').lower(): name for name in std_name_list}
     name_dict['host'] = 'Host'
     
-    for key in char_voice_map:
+    for key in list(char_voice_map.keys()):
         name_key = key.replace('_', '').replace(' ', '').lower()
         if name_key not in name_dict:
             print(f'{name_key} not in:')

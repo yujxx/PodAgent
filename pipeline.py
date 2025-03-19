@@ -338,11 +338,10 @@ def role_to_voice_map(lang, voices, output_path, api_key):
 
     try:
         char_voice_map = json5.loads(char_voice_map_response)
-        char_voice_map = check_map(char_voice_map, bg_info)
     except Exception as err:
         requirement = 'The script should in json format as {"":"", "":"", ...}.'
-        char_voice_map_response = format_script_with_retry(char_voice_map_response, requirement, api_key)
-        char_voice_map = json5.loads(char_voice_map_response)
+        char_voice_map = format_script_with_retry(char_voice_map_response, requirement, api_key)
+    char_voice_map = check_map(char_voice_map, bg_info)
     
     # enrich char_voice_map with voice preset metadata
     complete_char_voice_map = {c: voices[char_voice_map[c]] for c in char_voice_map}
