@@ -8,7 +8,8 @@
       "中",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930128.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930128.wav",
+    "asr_text": "汤米不知道不该这么做"
   },
   "1": {
     "id": "1",
@@ -19,7 +20,8 @@
       "低",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930434.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930434.wav",
+    "asr_text": "女影奏员把我们带到座位上"
   },
   "2": {
     "id": "2",
@@ -30,7 +32,8 @@
       "低",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930264.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930264.wav",
+    "asr_text": "新增供应项目租金较低"
   },
   "3": {
     "id": "3",
@@ -41,7 +44,8 @@
       "低",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930443.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930443.wav",
+    "asr_text": "高龄仍干着沉重的农活"
   },
   "4": {
     "id": "4",
@@ -52,7 +56,8 @@
       "高",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930356.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930356.wav",
+    "asr_text": "家庭年代的电视剧有什么?"
   },
   "5": {
     "id": "5",
@@ -63,7 +68,8 @@
       "高",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930338.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930338.wav",
+    "asr_text": "选中下载,选中第四排第一行第一个"
   },
   "6": {
     "id": "6",
@@ -74,7 +80,8 @@
       "低",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930226.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930226.wav",
+    "asr_text": "与捷报签约将会给公司的财务"
   },
   "7": {
     "id": "7",
@@ -85,7 +92,8 @@
       "低",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930225.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930225.wav",
+    "asr_text": "我们可没办法跟你一样。"
   },
   "8": {
     "id": "8",
@@ -96,7 +104,8 @@
       "中",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930147.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930147.wav",
+    "asr_text": "成为最受投资者青睐的领域"
   },
   "9": {
     "id": "9",
@@ -107,7 +116,8 @@
       "中",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930355.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930355.wav",
+    "asr_text": "68457.75"
   },
   "10": {
     "id": "10",
@@ -118,7 +128,8 @@
       "中",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930178.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930178.wav",
+    "asr_text": "无法完全忠实地将人分级"
   },
   "11": {
     "id": "11",
@@ -129,7 +140,8 @@
       "高",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930026.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930026.wav",
+    "asr_text": "68,990.43"
   },
   "12": {
     "id": "12",
@@ -140,7 +152,8 @@
       "高",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930354.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930354.wav",
+    "asr_text": "他在扭孔上面插了一小支丁香"
   },
   "13": {
     "id": "13",
@@ -151,7 +164,8 @@
       "中",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930150.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930150.wav",
+    "asr_text": "是伽利略发明了这种望远镜"
   },
   "14": {
     "id": "14",
@@ -162,7 +176,8 @@
       "低",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930310.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930310.wav",
+    "asr_text": "独一处小肥羊火锅中餐城"
   },
   "15": {
     "id": "15",
@@ -173,7 +188,8 @@
       "高",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930024.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930024.wav",
+    "asr_text": "在谈到与新疆十三东的合作时"
   },
   "16": {
     "id": "16",
@@ -184,7 +200,8 @@
       "中",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930392.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930392.wav",
+    "asr_text": "所有镜头的电磁驱动光圈控制元件"
   },
   "17": {
     "id": "17",
@@ -195,7 +212,8 @@
       "高",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930391.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930391.wav",
+    "asr_text": "杨洁梅出演的电视剧有什么"
   },
   "18": {
     "id": "18",
@@ -206,7 +224,8 @@
       "高",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930420.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930420.wav",
+    "asr_text": "而新兴市场化养老方式"
   },
   "19": {
     "id": "19",
@@ -217,7 +236,8 @@
       "高",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930238.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930238.wav",
+    "asr_text": "事业单位考试的书籍有什么?"
   },
   "20": {
     "id": "20",
@@ -228,7 +248,8 @@
       "中",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930432.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03930432.wav",
+    "asr_text": "成都峨眉山的景点有什么"
   },
   "21": {
     "id": "21",
@@ -239,7 +260,8 @@
       "低",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340319.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340319.wav",
+    "asr_text": "或是家中的物品被移动"
   },
   "22": {
     "id": "22",
@@ -250,7 +272,8 @@
       "中",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340059.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340059.wav",
+    "asr_text": "张小光 欲乐营销如何从云端落地"
   },
   "23": {
     "id": "23",
@@ -261,7 +284,8 @@
       "中",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340198.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340198.wav",
+    "asr_text": "以便让用户更加容易的进入了云内容"
   },
   "24": {
     "id": "24",
@@ -272,7 +296,8 @@
       "中",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340118.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340118.wav",
+    "asr_text": "祖女们可以通过手机调节摄像头的角度"
   },
   "25": {
     "id": "25",
@@ -283,7 +308,8 @@
       "中",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340050.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340050.wav",
+    "asr_text": "除了有两人鬼马搞怪合影外"
   },
   "26": {
     "id": "26",
@@ -294,7 +320,8 @@
       "中",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340477.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340477.wav",
+    "asr_text": "但凡营销部都是针对不同人群"
   },
   "27": {
     "id": "27",
@@ -305,7 +332,8 @@
       "高",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340100.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340100.wav",
+    "asr_text": "而是2008年北倍诊断为心脏疾病"
   },
   "28": {
     "id": "28",
@@ -316,7 +344,8 @@
       "中",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340258.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340258.wav",
+    "asr_text": "並配文討厭高跟鞋的女人"
   },
   "29": {
     "id": "29",
@@ -327,7 +356,8 @@
       "高",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340271.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340271.wav",
+    "asr_text": "为打造生态办公的环境"
   },
   "30": {
     "id": "30",
@@ -338,7 +368,8 @@
       "中",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340158.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340158.wav",
+    "asr_text": "当老人遇到困难或身体不舒适时"
   },
   "31": {
     "id": "31",
@@ -349,7 +380,8 @@
       "中",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340140.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340140.wav",
+    "asr_text": "放一首邓立新的歌听听"
   },
   "32": {
     "id": "32",
@@ -360,7 +392,8 @@
       "高",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340089.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340089.wav",
+    "asr_text": "张聚科罢赛另有引擎与平宇中心各法五万了事。"
   },
   "33": {
     "id": "33",
@@ -371,7 +404,8 @@
       "高",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340228.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340228.wav",
+    "asr_text": "要求严谨加工出售过期食品"
   },
   "34": {
     "id": "34",
@@ -382,7 +416,8 @@
       "高",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340317.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340317.wav",
+    "asr_text": "休战了近一个月的拼超联赛重燃战火"
   },
   "35": {
     "id": "35",
@@ -393,7 +428,8 @@
       "高",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340459.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340459.wav",
+    "asr_text": "就是放在父母家里的大白机器人"
   },
   "36": {
     "id": "36",
@@ -404,7 +440,8 @@
       "高",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340101.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340101.wav",
+    "asr_text": "2014年台湾皇冠出版社初帅的邵帅"
   },
   "37": {
     "id": "37",
@@ -415,7 +452,8 @@
       "高",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340289.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340289.wav",
+    "asr_text": "管理人员可以随时安排工作人前缘去制"
   },
   "38": {
     "id": "38",
@@ -426,7 +464,8 @@
       "高",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340262.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04340262.wav",
+    "asr_text": "希望能够为国人继续增光"
   },
   "39": {
     "id": "39",
@@ -437,7 +476,8 @@
       "高",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB02610014.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB02610014.wav",
+    "asr_text": "那条船航行时悬挂着荷兰国旗"
   },
   "40": {
     "id": "40",
@@ -448,7 +488,8 @@
       "高",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB02610011.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB02610011.wav",
+    "asr_text": "陈奕迅十年的歌曲有什么"
   },
   "41": {
     "id": "41",
@@ -459,7 +500,8 @@
       "高",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07100150.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07100150.wav",
+    "asr_text": "又可能面临行政违法的尴尬局面"
   },
   "42": {
     "id": "42",
@@ -470,7 +512,8 @@
       "高",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07100124.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07100124.wav",
+    "asr_text": "这也是目前智能家具的瓶颈。"
   },
   "43": {
     "id": "43",
@@ -481,7 +524,8 @@
       "高",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB18280060.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB18280060.wav",
+    "asr_text": "环保新能源车的市场需求越来越大"
   },
   "44": {
     "id": "44",
@@ -492,7 +536,8 @@
       "中",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07370237.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07370237.wav",
+    "asr_text": "这家伙声称有某种特异功能"
   },
   "45": {
     "id": "45",
@@ -503,7 +548,8 @@
       "中",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07370156.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07370156.wav",
+    "asr_text": "大连开发区的地名有什么"
   },
   "46": {
     "id": "46",
@@ -514,7 +560,8 @@
       "高",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07370235.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07370235.wav",
+    "asr_text": "福建省司法厅宿舍东北门"
   },
   "47": {
     "id": "47",
@@ -525,7 +572,8 @@
       "中",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07370368.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07370368.wav",
+    "asr_text": "便温室温度调至-14度"
   },
   "48": {
     "id": "48",
@@ -536,7 +584,8 @@
       "高",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07370155.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07370155.wav",
+    "asr_text": "1206423.31"
   },
   "49": {
     "id": "49",
@@ -547,7 +596,8 @@
       "高",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07370183.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07370183.wav",
+    "asr_text": "汤米刚把翻译用油价寄给我了"
   },
   "50": {
     "id": "50",
@@ -558,7 +608,8 @@
       "低",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03540002.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03540002.wav",
+    "asr_text": "变温温度设为-5摄氏度"
   },
   "51": {
     "id": "51",
@@ -569,7 +620,8 @@
       "低",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03540455.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03540455.wav",
+    "asr_text": "480.03780.52"
   },
   "52": {
     "id": "52",
@@ -580,7 +632,8 @@
       "低",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03540330.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03540330.wav",
+    "asr_text": "湖南卫士花三千万请来留业上爸爸去哪儿三"
   },
   "53": {
     "id": "53",
@@ -591,7 +644,8 @@
       "低",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03540250.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03540250.wav",
+    "asr_text": "可能是我几年来看到的最好的一副。"
   },
   "54": {
     "id": "54",
@@ -602,7 +656,8 @@
       "低",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060018.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060018.wav",
+    "asr_text": "国际跨国公司广场项目引发业内广泛关注。"
   },
   "55": {
     "id": "55",
@@ -613,7 +668,8 @@
       "高",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060130.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060130.wav",
+    "asr_text": "肯定是做好了上场的准备"
   },
   "56": {
     "id": "56",
@@ -624,7 +680,8 @@
       "高",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060096.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060096.wav",
+    "asr_text": "标志着我国税收征管水平提高"
   },
   "57": {
     "id": "57",
@@ -635,7 +692,8 @@
       "中",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060131.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060131.wav",
+    "asr_text": "以便让自己在电视领域继续保持竞争力"
   },
   "58": {
     "id": "58",
@@ -646,7 +704,8 @@
       "中",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060087.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060087.wav",
+    "asr_text": "早在2008和2009年"
   },
   "59": {
     "id": "59",
@@ -657,7 +716,8 @@
       "高",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060125.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060125.wav",
+    "asr_text": "因此买卖双方在第一次往迁时"
   },
   "60": {
     "id": "60",
@@ -668,7 +728,8 @@
       "中",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060022.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060022.wav",
+    "asr_text": "必然带来不同的教育方式与结果"
   },
   "61": {
     "id": "61",
@@ -679,7 +740,8 @@
       "高",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060280.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060280.wav",
+    "asr_text": "湖南张家界里的原家界景区人头攣动"
   },
   "62": {
     "id": "62",
@@ -690,7 +752,8 @@
       "中",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060482.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060482.wav",
+    "asr_text": "让更多中国孩子不被耽误"
   },
   "63": {
     "id": "63",
@@ -701,7 +764,8 @@
       "高",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060037.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060037.wav",
+    "asr_text": "北京晨报训记者严培音赡养老母亲发生矛盾"
   },
   "64": {
     "id": "64",
@@ -712,7 +776,8 @@
       "中",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060086.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060086.wav",
+    "asr_text": "虽然在十年后重返盈利轨道"
   },
   "65": {
     "id": "65",
@@ -723,7 +788,8 @@
       "低",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060146.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060146.wav",
+    "asr_text": "中行地产布局北京益庄"
   },
   "66": {
     "id": "66",
@@ -734,7 +800,8 @@
       "低",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060469.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06060469.wav",
+    "asr_text": "而仁夫朱涵博终于脱下婚戒"
   },
   "67": {
     "id": "67",
@@ -745,7 +812,8 @@
       "高",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03090419.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03090419.wav",
+    "asr_text": "该项研究成果发表在《健康心理学》杂志上。"
   },
   "68": {
     "id": "68",
@@ -756,7 +824,8 @@
       "中",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03090323.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03090323.wav",
+    "asr_text": "但因为公认案后监局揭发他人犯罪并经查实"
   },
   "69": {
     "id": "69",
@@ -767,7 +836,8 @@
       "中",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840411.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840411.wav",
+    "asr_text": "我的意思是伊迪斯可能孩"
   },
   "70": {
     "id": "70",
@@ -778,7 +848,8 @@
       "中",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840301.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840301.wav",
+    "asr_text": "哈尔滨市家庭暴力验伤中心"
   },
   "71": {
     "id": "71",
@@ -789,7 +860,8 @@
       "高",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840137.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840137.wav",
+    "asr_text": "温州市夏安农家乐养殖专业合作社"
   },
   "72": {
     "id": "72",
@@ -800,7 +872,8 @@
       "高",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840255.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840255.wav",
+    "asr_text": "过程中也容易出现意外"
   },
   "73": {
     "id": "73",
@@ -811,7 +884,8 @@
       "中",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840123.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840123.wav",
+    "asr_text": "苹果的组织规模自库克上任以来扩大了三倍"
   },
   "74": {
     "id": "74",
@@ -822,7 +896,8 @@
       "中",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840320.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840320.wav",
+    "asr_text": "所以约翰还有机会活着"
   },
   "75": {
     "id": "75",
@@ -833,7 +908,8 @@
       "中",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840081.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840081.wav",
+    "asr_text": "哈尔滨市的学院有什么?"
   },
   "76": {
     "id": "76",
@@ -844,7 +920,8 @@
       "低",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840447.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07840447.wav",
+    "asr_text": "关锦鹏导演的电影有什么?"
   },
   "77": {
     "id": "77",
@@ -855,7 +932,8 @@
       "中",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06090228.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06090228.wav",
+    "asr_text": "特别是向所管辖的企业和下级单位转嫁"
   },
   "78": {
     "id": "78",
@@ -866,7 +944,8 @@
       "中",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06090072.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06090072.wav",
+    "asr_text": "实现近43亿元销售额"
   },
   "79": {
     "id": "79",
@@ -877,7 +956,8 @@
       "中",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06090248.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06090248.wav",
+    "asr_text": "家人苦苦找了23天才发现孩子尸体"
   },
   "80": {
     "id": "80",
@@ -888,7 +968,8 @@
       "低",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06090410.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06090410.wav",
+    "asr_text": "充分展示亚洲市场上创新价值链的广度和深度"
   },
   "81": {
     "id": "81",
@@ -899,7 +980,8 @@
       "低",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06090214.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06090214.wav",
+    "asr_text": "6000多名游客受困维州岛三天多昨日撤离"
   },
   "82": {
     "id": "82",
@@ -910,7 +992,8 @@
       "低",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06090163.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06090163.wav",
+    "asr_text": "孩子的继母为何这么狠心"
   },
   "83": {
     "id": "83",
@@ -921,7 +1004,8 @@
       "高",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB11000448.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB11000448.wav",
+    "asr_text": "10273394721"
   },
   "84": {
     "id": "84",
@@ -932,7 +1016,8 @@
       "中",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB11000058.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB11000058.wav",
+    "asr_text": "是一个非常非常强大的对手"
   },
   "85": {
     "id": "85",
@@ -943,7 +1028,8 @@
       "低",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB11000110.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB11000110.wav",
+    "asr_text": "我们明天去延庆晚安,你去布。"
   },
   "86": {
     "id": "86",
@@ -954,7 +1040,8 @@
       "高",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05900249.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05900249.wav",
+    "asr_text": "沈阳药科大学山西寒寿站"
   },
   "87": {
     "id": "87",
@@ -965,7 +1052,8 @@
       "低",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05900458.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05900458.wav",
+    "asr_text": "但是我还是一个没买过太贵了"
   },
   "88": {
     "id": "88",
@@ -976,7 +1064,8 @@
       "高",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03410397.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03410397.wav",
+    "asr_text": "长沙市越路区的街道有什么?"
   },
   "89": {
     "id": "89",
@@ -987,7 +1076,8 @@
       "中",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB18910206.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB18910206.wav",
+    "asr_text": "家住福建省泉州市德化县盖德镇的临信堂起床"
   },
   "90": {
     "id": "90",
@@ -998,7 +1088,8 @@
       "高",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB02410144.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB02410144.wav",
+    "asr_text": "互联网引领服务新体验"
   },
   "91": {
     "id": "91",
@@ -1009,7 +1100,8 @@
       "高",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB02880303.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB02880303.wav",
+    "asr_text": "10日11时57分"
   },
   "92": {
     "id": "92",
@@ -1020,7 +1112,8 @@
       "低",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB10500228.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB10500228.wav",
+    "asr_text": "你叫什么名字?你的名字。"
   },
   "93": {
     "id": "93",
@@ -1031,7 +1124,8 @@
       "中",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05340449.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05340449.wav",
+    "asr_text": "继六月冲高后有所回落"
   },
   "94": {
     "id": "94",
@@ -1042,7 +1136,8 @@
       "低",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04070327.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04070327.wav",
+    "asr_text": "古特拉克新型极能建材厂"
   },
   "95": {
     "id": "95",
@@ -1053,7 +1148,8 @@
       "低",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04070412.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04070412.wav",
+    "asr_text": "在这两个领域中,公司的市场占有率最高。"
   },
   "96": {
     "id": "96",
@@ -1064,7 +1160,8 @@
       "低",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04070389.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04070389.wav",
+    "asr_text": "冷层温度调至8摄氏度"
   },
   "97": {
     "id": "97",
@@ -1075,7 +1172,8 @@
       "低",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06710047.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06710047.wav",
+    "asr_text": "鲁振顺出演的电视剧有什么"
   },
   "98": {
     "id": "98",
@@ -1086,7 +1184,8 @@
       "高",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB11360206.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB11360206.wav",
+    "asr_text": "芹菜和西兰花是绿色的"
   },
   "99": {
     "id": "99",
@@ -1097,7 +1196,8 @@
       "中",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06660072.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06660072.wav",
+    "asr_text": "俄罗市B市农村信用社营业厅"
   },
   "100": {
     "id": "100",
@@ -1108,7 +1208,8 @@
       "高",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390343.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390343.wav",
+    "asr_text": "鄂爾多斯市的企業有什麼?"
   },
   "101": {
     "id": "101",
@@ -1119,7 +1220,8 @@
       "低",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390142.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390142.wav",
+    "asr_text": "5020946.59"
   },
   "102": {
     "id": "102",
@@ -1130,7 +1232,8 @@
       "低",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390420.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390420.wav",
+    "asr_text": "画着一个老船长把观察孔挖空。"
   },
   "103": {
     "id": "103",
@@ -1141,7 +1244,8 @@
       "低",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390180.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390180.wav",
+    "asr_text": "我们觉得自己还是运动员"
   },
   "104": {
     "id": "104",
@@ -1152,7 +1256,8 @@
       "低",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390425.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390425.wav",
+    "asr_text": "李嘉纯出演的电视剧有什么?"
   },
   "105": {
     "id": "105",
@@ -1163,7 +1268,8 @@
       "中",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390381.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390381.wav",
+    "asr_text": "江苏省江苏的大学有什么"
   },
   "106": {
     "id": "106",
@@ -1174,7 +1280,8 @@
       "高",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390156.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390156.wav",
+    "asr_text": "中注协将启动年报深继监管约谈机制。"
   },
   "107": {
     "id": "107",
@@ -1185,7 +1292,8 @@
       "中",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390252.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05390252.wav",
+    "asr_text": "中国法治史人物有什么?"
   },
   "108": {
     "id": "108",
@@ -1196,7 +1304,8 @@
       "高",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB13660186.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB13660186.wav",
+    "asr_text": "发改委负责人贸易的权威人士称"
   },
   "109": {
     "id": "109",
@@ -1207,7 +1316,8 @@
       "高",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB10200282.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB10200282.wav",
+    "asr_text": "有天在路上威廉就失去了理智"
   },
   "110": {
     "id": "110",
@@ -1218,7 +1328,8 @@
       "中",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06230439.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06230439.wav",
+    "asr_text": "1331963880"
   },
   "111": {
     "id": "111",
@@ -1229,7 +1340,8 @@
       "高",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06230310.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06230310.wav",
+    "asr_text": "劉一署出生在漢考大水港"
   },
   "112": {
     "id": "112",
@@ -1240,7 +1352,8 @@
       "低",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB14370201.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB14370201.wav",
+    "asr_text": "应当在规定期限内腾退"
   },
   "113": {
     "id": "113",
@@ -1251,7 +1364,8 @@
       "高",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05350356.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05350356.wav",
+    "asr_text": "普通投资者专业能力相对有限"
   },
   "114": {
     "id": "114",
@@ -1262,7 +1376,8 @@
       "低",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB00730075.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB00730075.wav",
+    "asr_text": "在这次北京市锦赛举行期间"
   },
   "115": {
     "id": "115",
@@ -1273,7 +1388,8 @@
       "低",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB00730085.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB00730085.wav",
+    "asr_text": "水平仅相当于4年前公布的情况"
   },
   "116": {
     "id": "116",
@@ -1284,7 +1400,8 @@
       "低",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB00730052.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB00730052.wav",
+    "asr_text": "由于该规定确定了一个诉讼前置程序"
   },
   "117": {
     "id": "117",
@@ -1295,7 +1412,8 @@
       "低",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB09660055.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB09660055.wav",
+    "asr_text": "我以为约翰能做得更好"
   },
   "118": {
     "id": "118",
@@ -1306,7 +1424,8 @@
       "中",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03940361.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03940361.wav",
+    "asr_text": "让夫妻双方自己进行审视"
   },
   "119": {
     "id": "119",
@@ -1317,7 +1436,8 @@
       "中",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06030408.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06030408.wav",
+    "asr_text": "它无法提出不在场证明"
   },
   "120": {
     "id": "120",
@@ -1328,7 +1448,8 @@
       "低",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB16250123.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB16250123.wav",
+    "asr_text": "你怎么知道不如姆西达尔的"
   },
   "121": {
     "id": "121",
@@ -1339,7 +1460,8 @@
       "高",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06290259.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06290259.wav",
+    "asr_text": "3871.7"
   },
   "122": {
     "id": "122",
@@ -1350,7 +1472,8 @@
       "高",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB16990325.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB16990325.wav",
+    "asr_text": "昆明各区县按照昆明市统一部署和安排。"
   },
   "123": {
     "id": "123",
@@ -1361,7 +1484,8 @@
       "中",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05440074.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05440074.wav",
+    "asr_text": "它从今年3月至今占用硬体车到23次"
   },
   "124": {
     "id": "124",
@@ -1372,7 +1496,8 @@
       "高",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB02670395.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB02670395.wav",
+    "asr_text": "他半砍玩笑的冲他皱了皱眉"
   },
   "125": {
     "id": "125",
@@ -1383,7 +1508,8 @@
       "中",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB19350199.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB19350199.wav",
+    "asr_text": "从美国专利商标局给出的专利图来看"
   },
   "126": {
     "id": "126",
@@ -1394,7 +1520,8 @@
       "低",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06310046.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06310046.wav",
+    "asr_text": "格力零头社区行政卫生市北"
   },
   "127": {
     "id": "127",
@@ -1405,7 +1532,8 @@
       "中",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05990028.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05990028.wav",
+    "asr_text": "收购位于上海的德佑地产之后"
   },
   "128": {
     "id": "128",
@@ -1416,7 +1544,8 @@
       "中",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB12030109.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB12030109.wav",
+    "asr_text": "成为2022年冬奥会举办城市"
   },
   "129": {
     "id": "129",
@@ -1427,7 +1556,8 @@
       "低",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB16240249.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB16240249.wav",
+    "asr_text": "大盘整体涨幅7%"
   },
   "130": {
     "id": "130",
@@ -1438,7 +1568,8 @@
       "高",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB16840095.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB16840095.wav",
+    "asr_text": "市场信心开始有所恢复"
   },
   "131": {
     "id": "131",
@@ -1449,7 +1580,8 @@
       "中",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03750076.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03750076.wav",
+    "asr_text": "中国移动厦门分公司市场部"
   },
   "132": {
     "id": "132",
@@ -1460,7 +1592,8 @@
       "中",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB00110215.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB00110215.wav",
+    "asr_text": "报名时间从2015年9月28日开始"
   },
   "133": {
     "id": "133",
@@ -1471,7 +1604,8 @@
       "高",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03160043.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03160043.wav",
+    "asr_text": "斯巴达电动车张潘专卖店"
   },
   "134": {
     "id": "134",
@@ -1482,7 +1616,8 @@
       "高",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB01970209.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB01970209.wav",
+    "asr_text": "正在尝试逐步取消新生纸质转单报导"
   },
   "135": {
     "id": "135",
@@ -1493,7 +1628,8 @@
       "中",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06140373.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06140373.wav",
+    "asr_text": "网民们却已经迫不及待自娱自乐起来"
   },
   "136": {
     "id": "136",
@@ -1504,7 +1640,8 @@
       "高",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB18630016.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB18630016.wav",
+    "asr_text": "有关部门要切实负起责任"
   },
   "137": {
     "id": "137",
@@ -1515,7 +1652,8 @@
       "低",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB14480356.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB14480356.wav",
+    "asr_text": "比如日本的纳波特斯克帕减速器"
   },
   "138": {
     "id": "138",
@@ -1526,7 +1664,8 @@
       "低",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB08710208.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB08710208.wav",
+    "asr_text": "搜狐娱乐迅奔台湾媒体报道"
   },
   "139": {
     "id": "139",
@@ -1537,7 +1676,8 @@
       "低",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06070002.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06070002.wav",
+    "asr_text": "圣元明烟明酒 长兴北路"
   },
   "140": {
     "id": "140",
@@ -1548,7 +1688,8 @@
       "低",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB18310185.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB18310185.wav",
+    "asr_text": "刘女士不解跳扫从何而来"
   },
   "141": {
     "id": "141",
@@ -1559,7 +1700,8 @@
       "中",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB02730428.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB02730428.wav",
+    "asr_text": "苹果的激励效应将持续下去"
   },
   "142": {
     "id": "142",
@@ -1570,7 +1712,8 @@
       "低",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB01390239.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB01390239.wav",
+    "asr_text": "我还不知道前路将如何"
   },
   "143": {
     "id": "143",
@@ -1581,7 +1724,8 @@
       "中",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB08870225.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB08870225.wav",
+    "asr_text": "这类技术能够让电视机变得更薄"
   },
   "144": {
     "id": "144",
@@ -1592,7 +1736,8 @@
       "中",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB08630250.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB08630250.wav",
+    "asr_text": "但没有对风险合规指标比重做硬性的量化规定"
   },
   "145": {
     "id": "145",
@@ -1603,7 +1748,8 @@
       "低",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB13410124.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB13410124.wav",
+    "asr_text": "今年年末到明年三半年"
   },
   "146": {
     "id": "146",
@@ -1614,7 +1760,8 @@
       "低",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06320310.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06320310.wav",
+    "asr_text": "用入眼帘的是三间没有粉刷的简陋砖房。"
   },
   "147": {
     "id": "147",
@@ -1625,7 +1772,8 @@
       "低",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07200117.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07200117.wav",
+    "asr_text": "打通慈善落地后的最后一公里"
   },
   "148": {
     "id": "148",
@@ -1636,7 +1784,8 @@
       "低",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB11310031.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB11310031.wav",
+    "asr_text": "你给我听听爸爸去哪"
   },
   "149": {
     "id": "149",
@@ -1647,7 +1796,8 @@
       "中",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB18370167.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB18370167.wav",
+    "asr_text": "他说现在相处的态度多了尊重"
   },
   "150": {
     "id": "150",
@@ -1658,7 +1808,8 @@
       "低",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06680105.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06680105.wav",
+    "asr_text": "尤其是女子四亿白混合永意外得多金"
   },
   "151": {
     "id": "151",
@@ -1669,7 +1820,8 @@
       "低",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03790164.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03790164.wav",
+    "asr_text": "努力让自己像一个中国公司"
   },
   "152": {
     "id": "152",
@@ -1680,7 +1832,8 @@
       "中",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB00050085.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB00050085.wav",
+    "asr_text": "也讲述了面临的一些困惑"
   },
   "153": {
     "id": "153",
@@ -1691,7 +1844,8 @@
       "高",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03660115.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03660115.wav",
+    "asr_text": "事情的发展暂时看似非常顺利"
   },
   "154": {
     "id": "154",
@@ -1702,7 +1856,8 @@
       "高",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB12530180.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB12530180.wav",
+    "asr_text": "总共可以行驶100千米距离"
   },
   "155": {
     "id": "155",
@@ -1713,7 +1868,8 @@
       "高",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB09350307.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB09350307.wav",
+    "asr_text": "唯一的办法就是找皮肤科的医生了"
   },
   "156": {
     "id": "156",
@@ -1724,7 +1880,8 @@
       "中",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06010387.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB06010387.wav",
+    "asr_text": "还是我刚跟他们联系了的报价"
   },
   "157": {
     "id": "157",
@@ -1735,7 +1892,8 @@
       "中",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB00180126.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB00180126.wav",
+    "asr_text": "虽然上版人数占比下降"
   },
   "158": {
     "id": "158",
@@ -1746,7 +1904,8 @@
       "中",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04350489.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB04350489.wav",
+    "asr_text": "412万0855"
   },
   "159": {
     "id": "159",
@@ -1757,7 +1916,8 @@
       "低",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB01120044.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB01120044.wav",
+    "asr_text": "13725604631"
   },
   "160": {
     "id": "160",
@@ -1768,7 +1928,8 @@
       "高",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05880124.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05880124.wav",
+    "asr_text": "金莱克比喻上市中央男"
   },
   "161": {
     "id": "161",
@@ -1779,7 +1940,8 @@
       "低",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB00430313.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB00430313.wav",
+    "asr_text": "已经停建好几个小时了"
   },
   "162": {
     "id": "162",
@@ -1790,7 +1952,8 @@
       "中",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB01220448.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB01220448.wav",
+    "asr_text": "持牌人对风险管控负责根据通知"
   },
   "163": {
     "id": "163",
@@ -1801,7 +1964,8 @@
       "中",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB19180380.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB19180380.wav",
+    "asr_text": "经济紧张的马某和王某居然想到盗窃汽车买钱"
   },
   "164": {
     "id": "164",
@@ -1812,7 +1976,8 @@
       "中",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB09190443.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB09190443.wav",
+    "asr_text": "百度烤肉,都市高价桥路"
   },
   "165": {
     "id": "165",
@@ -1823,7 +1988,8 @@
       "低",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB11610452.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB11610452.wav",
+    "asr_text": "查获了一起外国人偷渡案"
   },
   "166": {
     "id": "166",
@@ -1834,7 +2000,8 @@
       "高",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03230270.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03230270.wav",
+    "asr_text": "决定指出自决定下发之日起"
   },
   "167": {
     "id": "167",
@@ -1845,7 +2012,8 @@
       "高",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07580168.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07580168.wav",
+    "asr_text": "济南珍珠泉乾隆玉比石碑碑滑"
   },
   "168": {
     "id": "168",
@@ -1856,7 +2024,8 @@
       "高",
       "中"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07940095.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB07940095.wav",
+    "asr_text": "但高位回落的压力渐显。"
   },
   "169": {
     "id": "169",
@@ -1867,7 +2036,8 @@
       "高",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB19560109.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB19560109.wav",
+    "asr_text": "已经身为奶爸的周杰伦穿着篮球服"
   },
   "170": {
     "id": "170",
@@ -1878,7 +2048,8 @@
       "高",
       "高"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05700377.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB05700377.wav",
+    "asr_text": "台州市市集机关汽车服务有限公司"
   },
   "171": {
     "id": "171",
@@ -1889,6 +2060,7 @@
       "中",
       "低"
     ],
-    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03390231.wav"
+    "wav_path": "data/voice_presets_cv_zh/ref_wav/SSB03390231.wav",
+    "asr_text": "我是不是告诉你我认识此人"
   }
 }
