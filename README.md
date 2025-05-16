@@ -15,6 +15,7 @@ Given the topic to be discussed, PodAgent will simulate human behavior to create
 
 ## News
 - 🥂 2025.03 PodAgent is released! We currently support podcast generation in two languages: English and Chinese.
+- 🥂 2025.05 PodAgent is accepted by ACL Findings!
 
 ## Download Codes
 1. Download PodAgent
